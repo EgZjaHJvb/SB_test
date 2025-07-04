@@ -1,0 +1,717 @@
+﻿AR/VR Questions for PCMB
+
+
+Physics
+
+
+Chapter 1: Physics and Measurements
+
+
+1.  Imagine you are measuring the length of a table with a ruler. If the ruler has markings every millimeter, and you estimate the length to the nearest half-millimeter, what does this tell you about the "least count" and "significant figures" in your measurement?
+2.  If you have a formula for the speed of a car ($v = d/t$), how can you use "dimensional analysis" to check if the units on both sides of the equation are consistent? What would it look like if they weren't?
+3.  Picture a small block sliding down a ramp. How would "errors in measurement" of the ramp's length or the block's time affect your calculated speed, and how could you minimize these errors?
+4.  You're looking at a weather report. If the temperature is given as 25.3°C, what does the number of "significant figures" imply about the precision of the measurement? If it was just 25°C, how would that differ visually?
+5.  Consider a recipe that calls for "two cups of flour." How does this everyday unit relate to the "SI units" we use in physics, and why is using SI units important for scientific measurements?
+
+
+Chapter 2: Kinematics
+
+
+1.  Draw a "position-time graph" for a person walking at a constant speed, then stopping for a while, and then walking back towards their starting point. How would the lines on the graph change to represent "uniform and non-uniform motion"?
+2.  Imagine a car accelerating uniformly from a stop. Sketch its "velocity-time graph" and explain how you can determine the total distance traveled from this graph.
+3.  Visualize two vectors: one representing a force pushing a box to the right, and another representing a force pushing it upwards. How would you graphically perform the "addition and subtraction" of these vectors to find the net force?
+4.  Think about a ball thrown horizontally off a cliff. Sketch its path. How can you break down its "motion in a plane" into independent horizontal and vertical components using "resolution of a vector"?
+5.  Picture a child on a merry-go-round moving at a constant speed. Even though their speed is constant, why is this considered "uniform circular motion" and not motion in a straight line? What about their velocity?
+
+
+
+
+
+
+Chapter 3: Laws of Motion
+
+
+1.  Imagine pushing a heavy box. How does "Newton's First Law of Motion" (inertia) explain why it's hard to get it moving, and hard to stop it once it's in motion?
+2.  If you throw a small ball and a bowling ball with the same force, which one will accelerate more? How does "Newton's Second Law of Motion" ($F=ma$) visually explain this difference?
+3.  Consider a rocket launching into space. How does the concept of "Newton's Third Law of Motion" (action-reaction) explain why the rocket moves upward when it expels hot gases downward?
+4.  Picture a car skidding to a stop on a road. How does the "static and kinetic friction" between the tires and the road affect how quickly it stops, and what's the visual difference between these two types of friction?
+5.  Draw a car making a turn on a flat road. What invisible force is acting as the "centripetal force" to keep the car from sliding outwards? What would happen if this force wasn't strong enough?
+
+
+Chapter 4: Work, Energy and Power
+
+
+1.  Imagine pushing a shopping cart across a store. If you push it harder, you do more "work." How does the "work-energy theorem" relate the work you do to the change in the cart's "kinetic energy"?
+2.  Visualize a roller coaster car at the top of a hill and then at the bottom. How does the concept of "conservation of mechanical energy" explain the conversion between "potential energy" and "kinetic energy" as it moves?
+3.  Think about stretching a spring. How does the "potential energy of a spring" change as you stretch it further? Draw a graph to represent this relationship.
+4.  Consider a ball falling through the air. Initially, it has potential energy. As it falls, some energy is lost due to air resistance (a "non-conservative force"). How does this differ from dropping a ball in a vacuum, where only "conservative forces" like gravity are at play?
+5.  If two billiard balls collide, how can you visually distinguish between an "elastic and inelastic collision" based on how much kinetic energy is conserved or lost?
+
+
+
+
+
+
+
+
+
+
+Chapter 5: Rotational Motion
+
+
+1.  Imagine a seesaw with two people of different weights. Where would the "centre of mass" be located to keep it balanced, and how does this relate to the concept of "torque"?
+2.  Think about a figure skater spinning. When they pull their arms in, they spin faster. How does the "conservation of angular momentum" visually explain this phenomenon?
+3.  Visualize a bicycle wheel spinning. How does the "moment of inertia" of the wheel affect how easily it starts rotating or stops rotating? Compare a light wheel to a heavy one.
+4.  Consider a door opening and closing. How does the "moment of a force" (torque) applied to the doorknob affect how easily the door rotates, and what happens if you push near the hinges?
+5.  Imagine a tightrope walker using a long pole for balance. How does the pole increase their "radius of gyration" and help them maintain "equilibrium of rigid bodies" while walking?
+
+
+Chapter 6: Gravitation
+
+
+1.  Visualize an apple falling from a tree to the Earth. How does "the universal law of gravitation" explain why the apple falls towards the Earth and not the other way around?
+2.  Imagine a satellite orbiting the Earth. How does the "orbital velocity" of the satellite keep it from falling to Earth or flying off into space?
+3.  Think about a person climbing a tall mountain. How does "acceleration due to gravity" change as their "altitude" increases, and how would this affect their weight?
+4.  Picture the planets orbiting the Sun. How do "Kepler's laws of planetary motion" describe the shapes of their orbits and their speeds at different points in their orbits?
+5.  If you wanted to launch a rocket completely away from Earth's gravitational pull, what concept, known as "escape velocity," would you need to overcome? How would this look visually compared to launching a satellite into orbit?
+
+
+Chapter 7: Properties of Solid and Liquids
+
+
+1.  Imagine stretching a rubber band and a metal wire with the same force. Which one stretches more? How does "Hooke's Law" and "Young's modulus" visually explain the difference in their "elastic behavior" and "stress-strain relationship"?
+2.  Visualize a submarine submerged deep in the ocean. How does "Pascal's law" explain the immense "pressure due to a fluid column" acting equally on all parts of the submarine?
+3.  Think about pouring honey versus pouring water. What property, known as "viscosity," makes honey flow much slower than water, and how would this look visually?
+4.  Imagine a small insect walking on the surface of water without sinking. What phenomenon, called "surface tension," allows this to happen, and what does it look like at the water's surface?
+5.  Picture a block of ice melting in a glass of water. How do "specific heat capacity" and "latent heat" explain the energy required to raise the temperature of the ice and then to change its state from solid to liquid?
+
+
+Chapter 8: Thermodynamics
+
+
+1.  Imagine two objects, one hot and one cold, placed in contact. How does the "zeroth law of thermodynamics" explain that heat will flow until they reach "thermal equilibrium" and the same temperature?
+2.  Think about inflating a balloon. You do "work" on the air inside. How does the "first law of thermodynamics" relate this work to the change in the air's "internal energy" and any "heat" exchanged?
+3.  Visualize a gas expanding rapidly from a pressurized can (like an aerosol spray). This is an "adiabatic process." How does it differ from an "isothermal process" where the temperature is kept constant, and how would the temperature change in each case?
+4.  Consider a refrigerator. It transfers heat from a cold inside to a warmer outside. How does the "second law of thermodynamics" imply that this process requires external "work" and is not a "reversible process" in nature?
+5.  Imagine a cup of hot coffee gradually cooling down to room temperature. This is an "irreversible process." How does this spontaneous heat transfer relate to the directionality imposed by the "second law of thermodynamics"?
+
+
+Chapter 9: Kinetic Theory of Gases
+
+
+1.  Imagine a balloon inflating as you pump more air into it. How does the "equation of state of a perfect gas" visually relate the pressure, volume, and temperature of the gas inside?
+2.  Think about gas molecules moving randomly inside a container. How does the "kinetic interpretation of temperature" explain that higher temperatures mean the molecules are moving faster, leading to higher "pressure"?
+3.  Visualize a gas expanding into a vacuum. No external "work" is done. How does the "Kinetic theory of gases" explain that the "internal energy" of the gas doesn't change during this expansion?
+4.  Consider a mixture of different types of gas molecules (e.g., helium and oxygen) at the same temperature. How does the "Law of equipartition of energy" suggest that, on average, each type of molecule has the same amount of kinetic energy, even if their speeds are different?
+5.  Imagine a single gas molecule bouncing around inside a container, constantly colliding with other molecules. What does the "mean free path" represent visually in terms of the average distance it travels between collisions?
+
+
+Chapter 10: Oscillations and Waves
+
+
+1.  Visualize a mass attached to a spring, oscillating up and down. How does its "displacement as a function of time" look on a graph, and how can you identify its "time period" and "frequency" from this graph?
+2.  Think about a child on a swing. This is an example of "simple harmonic motion (S.H.M.)." How does the swing's "restoring force" always try to bring it back to its equilibrium position?
+3.  Imagine dropping a pebble into a still pond. How do the ripples spreading outwards represent a "wave motion," and what's the visual difference between a "longitudinal" (like sound) and "transverse wave" (like water ripples)?
+4.  Visualize two waves meeting and passing through each other. How does the "principle of superposition of waves" explain what happens to their amplitudes when they overlap, creating areas of constructive and destructive interference?
+5.  Picture a guitar string vibrating. How do "standing waves in strings" create the different musical notes, and what do the "fundamental mode and harmonics" look like on the string?
+
+
+Chapter 11: Electrostatics
+
+1.  Imagine rubbing a balloon on your hair and sticking it to a wall. How does "electric charges" and "Coulomb's law" explain the attractive force between the balloon and the wall, and what does it look like?
+2.  Visualize an "electric field" around a single positive point charge. How do the "electric field lines" visually represent the direction and strength of the force on a positive test charge placed nearby?
+3.  Think about a lightning rod on top of a building. How does "Gauss's law" explain why the electric field is concentrated at sharp points, and how does this help protect the building?
+4.  Imagine two parallel metal plates connected to a battery, forming a "parallel plate capacitor." How do the "capacitors and capacitances" store electrical "energy," and what happens visually when you insert a "dielectric medium" between the plates?
+5.  Visualize an "equipotential surface" around a point charge. How does it look, and what does it mean for the "electric potential" at any point on that surface?
+
+
+Chapter 12: Current Electricity
+
+
+1.  Imagine electrons flowing through a wire, creating an "electric current." How does "Ohm's law" visually relate the "electrical resistance" of the wire to the voltage applied across it and the current flowing through it?
+2.  Think about connecting light bulbs in "series and parallel combinations." How does the brightness of the bulbs change in each arrangement, and how does this demonstrate the difference in "electrical resistance"?
+3.  Visualize a battery powering a flashlight. How does the "internal resistance" of the battery affect the actual "potential difference" across the bulb compared to the battery's stated "emf"?
+4.  Imagine a "Wheatstone bridge" circuit used to measure an unknown resistance. How does balancing the bridge visually indicate when the current through the galvanometer is zero, allowing for the calculation?
+5.  Consider a heating element in a toaster. How does "electrical energy and power" explain why the element gets hot when current flows through it, and what does this look like visually?
+
+
+Chapter 13: Magnetic Effects Of Current and Magnetism
+
+
+1.  Imagine a current flowing through a straight wire. How does "Biot-Savart law" explain the circular "magnetic field lines" that form around the wire, and what does this look like?
+2.  Visualize two parallel wires carrying current in the same direction. How does the "force between two parallel currents carrying conductors" explain why they attract each other? What if the currents are in opposite directions?
+3.  Think about a compass needle placed near a bar magnet. How do the "magnetic field lines" of the bar magnet visually guide the compass needle to point in a specific direction?
+4.  Imagine a "current loop as a magnetic dipole." How does it behave like a tiny bar magnet, and how does a "torque" act on it when placed in a uniform magnetic field?
+5.  Consider different materials like iron (ferromagnetic), aluminum (paramagnetic), and copper (diamagnetic). How do these substances visually interact with a magnetic field, and how does the "effect of temperature on magnetic properties" explain why a magnet loses its strength when heated?
+
+
+
+
+Chapter 14: Electromagnetic Induction and Altering Currents
+
+
+1.  Imagine moving a magnet near a coil of wire. How does "Faraday's law" and "Lenz's Law" explain why an "induced emf and current" are generated in the coil, and what does the direction of this current tell you?
+2.  Visualize an "AC generator" producing electricity. How does the continuous rotation of a coil in a magnetic field create an "alternating current" and "voltage" that constantly change direction?
+3.  Think about an "LCR series circuit" connected to an AC source. How does "resonance" in this circuit lead to a very large current, and what happens to the voltage across each component at resonance?
+4.  Imagine a "transformer" changing the voltage of an AC current. How do the different numbers of turns in the primary and secondary coils visually explain how voltage is stepped up or down?
+5.  Consider "Eddy currents" generated in a metal plate moving through a magnetic field. How do these circulating currents visually create a braking effect?
+
+
+Chapter 15: Electromagnetic Waves
+
+
+1.  Imagine a radio station transmitting signals. How do "electromagnetic waves" carry these signals through the air, and what does the "transverse nature of electromagnetic waves" mean for their oscillation direction?
+2.  Visualize the entire "electromagnetic spectrum." How do "radio waves," "microwaves," "infrared," "visible light," "ultraviolet," "X-rays," and "Gamma rays" differ in their wavelengths and energies, and where would you place each on a visual scale?
+3.  Think about how a microwave oven heats food. How do "microwaves" interact with water molecules to transfer energy, and what does this look like at a molecular level?
+4.  Imagine looking at a rainbow. How is the separation of white light into different colors an example of how "visible light" is part of the "electromagnetic spectrum"?
+5.  Consider an X-ray image of a broken bone. How do "X-rays" pass through soft tissue but are absorbed by denser bone, creating the visible image?
+
+
+Chapter 16: Optics
+
+
+1.  Imagine looking at your reflection in a funhouse mirror (a spherical mirror). How does the "mirror formula" explain why your reflection might appear distorted or upside down, and what does this look like?
+2.  Visualize light passing from air into water. How does "refraction of light" cause the light ray to bend, making objects underwater appear to be in a different position?
+3.  Think about a magnifying glass (a thin lens). How does the "thin lens formula" explain how it magnifies an object, and what does the "magnification" visually represent?
+4.  Imagine two small slits very close together, with light shining through them onto a screen. How does "Young's double-slit experiment" produce an "interference" pattern of bright and dark fringes, and what does this pattern look like?
+5.  Consider a pair of polarized sunglasses. How does "polarization" block certain orientations of light waves to reduce glare, and what does this look like compared to unpolarized light?
+
+
+Chapter 17: Dual Nature of Matter and Radiation
+
+
+1.  Imagine light shining on a metal surface, causing electrons to be ejected. How does the "photoelectric effect" demonstrate the "particle nature of light" (photons), and what does it look like when electrons are released?
+2.  Think about an electron moving through space. How does the "de Broglie relation" suggest that this electron also has a "wave nature," and what does this "matter wave" conceptually look like?
+3.  Visualize a light source with very low intensity. If you could see individual photons, how would this illustrate the discrete "particle nature of light"?
+4.  Consider an electron diffraction experiment. How does the pattern observed on a screen visually support the idea of the "wave nature of particle" for electrons?
+5.  Imagine increasing the frequency of light hitting a metal in the photoelectric effect. How does Einstein's "photoelectric equation" predict that the kinetic energy of the emitted electrons will increase, and what does this visually imply about the energy of the photons?
+
+
+Chapter 18: Atoms and Nuclei
+
+
+1.  Imagine "alpha-particle scattering experiment" where alpha particles are shot at a thin gold foil. How did the unexpected deflection of some particles lead to "Rutherford's model of atom" with a small, dense nucleus?
+2.  Visualize the different "energy levels" in a hydrogen atom, as described by the "Bohr model." How do electrons moving between these levels produce the distinct lines observed in the "hydrogen spectrum"?
+3.  Think about a nuclear reactor undergoing "nuclear fission." How does the splitting of a heavy nucleus release a tremendous amount of "mass-energy relation" and energy?
+4.  Imagine two light nuclei combining in "nuclear fusion" (like in the sun). How does this process release energy, and what does it visually imply about the "binding energy per nucleon"?
+5.  Consider the concept of "mass defect." How does the "composition and size of nucleus" explain why the total mass of individual nucleons is slightly greater than the actual atomic mass of the nucleus?
+
+
+Chapter 19: Electronic Devices
+
+1.  Imagine a "semiconductor diode." How do its "I-V characteristics in forward and reverse bias" visually show that it only allows current to flow easily in one direction, acting like a one-way valve for electricity?
+2.  Think about a "diode as a rectifier" in an AC circuit. How does it visually transform an alternating current into a pulsating direct current?
+3.  Visualize a "Light Emitting Diode (LED)" emitting light when current flows through it. How does the "I-V characteristics of LED" differ from a regular diode, and what does the emission of light signify?
+4.  Imagine a "solar cell" converting sunlight into electricity. How does it generate current when light falls on it, and what does this tell you about the "photodiode" principle?
+5.  Consider a "logic gate" like an "AND" gate. If you represent ON as a light being lit and OFF as dark, how would you visually demonstrate the conditions (inputs) under which the output light of an AND gate turns ON? Do this for all the logic gates (OR, NOT, NAND and NOR).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chemistry
+
+
+Chapter 1: Some Basic Concepts in Chemistry
+
+
+1.  Imagine you have a sealed container. How would you explain to a friend what "matter" is and describe its different states (solid, liquid, gas) inside that container?
+2.  If Dalton were alive today, how would he use his atomic theory to differentiate between a single atom of oxygen, a molecule of oxygen gas (O2), and a compound like water (H2O)?
+3.  You're in a kitchen baking a cake. How do the "Laws of Chemical Combination" help you understand why ingredients combine in specific ratios, and how would you use the concept of "mole" to measure out the right amount of sugar for a recipe?
+4.  If you know the percentage of carbon and hydrogen in a mysterious organic compound, how would you determine its "empirical and molecular formulae"? Picture yourself as a chemical detective!
+5.  You're balancing a chemical equation for a reaction. How does "stoichiometry" allow you to predict the exact amounts of reactants you need and the products you'll form, like following a precise recipe in chemistry?
+
+
+Chapter 2: Atomic Structure
+
+
+1.  Imagine a light bulb emitting light. How does the "nature of electromagnetic radiation" explain the different colors you see, and what happens to electrons in the "photoelectric effect" when light shines on a metal?
+2.  Picture Rutherford's gold foil experiment. How did the observations lead to the "Bohr model of a hydrogen atom," and what were the key ideas (postulates) Bohr used to describe electron orbits? What were the limitations of his model?
+3.  If electrons can behave like both particles and waves ("dual nature of matter"), how does "de Broglie's relationship" connect these two ideas? And how does the "Heisenberg uncertainty principle" suggest we can't know everything about an electron at once?
+4.  Imagine you're an electron in an atom. How do "atomic orbitals" describe your probable location, and how do the "quantum numbers" (principal, angular momentum, magnetic, and spin) act like an address system to pinpoint your state? How do the shapes of s, p, and d orbitals differ?
+5.  You're filling electrons into the orbitals of a new atom. How do the "Aufbau principle," "Pauli's exclusion principle," and "Hund's rule" act as a set of rules to ensure electrons are placed correctly? Why are half-filled and completely filled orbitals considered extra stable?
+
+
+Chapter 3: Chemical Bonding and Molecular Structure
+
+
+1.  Imagine two atoms wanting to form a bond. How do the "Kossel-Lewis approach" explain whether they'll form an "ionic bond" (like a transfer of electrons) or a "covalent bond" (like sharing electrons)?
+2.  For ionic bonds, how does the "lattice enthalpy" help us understand the strength of the bond, and what "factors affect the formation of ionic bonds" between atoms? Think about the size and charge of ions.
+3.  In a covalent bond, how does "electronegativity" influence how electrons are shared? How can "Fajan's rule" help predict if a bond will have more covalent character, and what does "dipole moment" tell us about the overall polarity of a molecule?
+4.  Using the "Valence Shell Electron Pair Repulsion (VSEPR) theory," how would you predict and visualize the "shapes of simple molecules" like water or methane? How do the electron pairs around a central atom influence the molecular geometry?
+5.  Imagine molecular orbitals as new homes for electrons in a molecule. How does "Molecular Orbital Theory" combine atomic orbitals to form "bonding" and "antibonding" molecular orbitals, and what do "sigma and pi-bonds" look like within a molecule? How do concepts like "bond order, bond length, and bond energy" relate to the stability of these molecular orbitals?
+
+
+Chapter 4: Chemical Thermodynamics
+
+
+1.  You're observing a chemical reaction in a beaker. How would you define the "system" (the reaction itself) and the "surroundings" (everything else)? How can you tell if properties like temperature are "intensive" or "extensive"?
+2.  Imagine a chemical process happening. How does the "first law of thermodynamics" relate "work," "heat," and "internal energy"? How can "Hess's law of constant heat summation" be used to calculate enthalpy changes for reactions that are difficult to measure directly?
+3.  You're designing a new industrial process. How does "entropy" (disorder) play a role in determining if a process will occur "spontaneously" or not? How do $\Delta S$ of the universe and $\Delta G$ of the system act as criteria for spontaneity?
+
+
+Chapter 5: Solutions
+
+
+1.  You're making a glass of lemonade. How would you express the "concentration of solution" using different methods like "molality," "molarity," or "percentage (by volume and mass)"? Which method would be most useful for a chemist vs. a cook?
+2.  Imagine you have a pure solvent and then add a solute to it. How does "Raoult's Law" describe the "vapour pressure of solutions," and how do "ideal and non-ideal solutions" differ in their behavior? How would their vapor pressure-composition plots look?
+3.  How do "colligative properties" like "relative lowering of vapour pressure," "depression of freezing point," "elevation of boiling point," and "osmotic pressure" depend only on the number of solute particles, not their identity? How can these properties be used to determine the molecular mass of an unknown substance?
+4.  Sometimes, the molecular mass determined using colligative properties can be "abnormal." What is the "van’t Hoff factor," and how does it help explain this abnormality, especially for electrolytes?
+5.  If you're given two solutions with different concentrations, how can you predict the direction of solvent flow if they're separated by a semipermeable membrane, based on the concept of "osmotic pressure"?
+
+
+Chapter 6: Equilibrium
+
+
+1.  Imagine a seesaw perfectly balanced. How does this illustrate the "meaning of equilibrium," and what does "dynamic equilibrium" imply about the ongoing molecular processes?
+2.  Consider ice melting in water. How does this represent "equilibria involving physical processes" like solid-liquid equilibrium? How does "Henry's law" explain the solubility of gases in liquids?
+3.  You're observing a reversible chemical reaction. How do "equilibrium constants ($K_p$ and $K_c$)" quantify the extent of the reaction at equilibrium? How does "Le Chatelier’s principle" allow you to predict how changing concentration, pressure, or temperature will shift the equilibrium position?
+4.  In an aqueous solution, what's the difference between "weak and strong electrolytes"? How do "Arrhenius, Bronsted-Lowry, and Lewis" theories define "acids and bases," and how do their "ionization constants" reflect their strength?
+5.  How is the "pH scale" used to express the acidity or basicity of a solution? What is the "common ion effect," and how do "buffer solutions" resist changes in pH when small amounts of acid or base are added?
+
+
+Chapter 7: Redox Reaction and ElectroChemistry
+
+
+1.  Imagine electrons moving between atoms in a reaction. How do "electronic concepts of oxidation and reduction" describe this movement, and how is "oxidation number" used to keep track of these electron transfers in "redox reactions"?
+2.  You're trying to make a bulb light up using a solution. How do "electrolytic and metallic conduction" differ? How does "Kohlrausch’s law" help us understand the "molar conductivities" of electrolytes at infinite dilution?
+3.  Picture two different metals immersed in solutions connected by a salt bridge. How do "electrochemical cells" (both "electrolytic and Galvanic cells") generate or consume electrical energy? What are "electrode potentials," and how is the "Nernst equation" used to calculate cell potential under non-standard conditions?
+4.  How do everyday examples like a "dry cell" (like in a flashlight) or a "lead accumulator" (car battery) function based on electrochemical principles? What are the advantages of "fuel cells"?
+5.  If you measure the "emf of a Galvanic cell," how can you relate this directly to the "Gibbs' energy change" of the chemical reaction occurring within the cell?
+
+
+Chapter 8: Chemical Kinetics
+
+
+1.  You're watching a reaction proceed. What factors determine the "rate of a chemical reaction," such as "concentration, temperature, pressure, and catalyst"? How do "elementary and complex reactions" differ?
+2.  How does the "rate law" express the relationship between reaction rate and reactant concentrations? What are the "order and molecularity of reactions," and how do they describe the number of molecules involved in the rate-determining step?
+3.  How can you distinguish between "zero and first-order reactions" based on their "differential and integral forms" and their "half-lives"? Imagine plotting their concentration vs. time graphs.
+4.  How does "Arrhenius theory" explain the "effect of temperature on the rate of reactions" by relating it to "activation energy"? How can you calculate activation energy from experimental data?
+5.  For a reaction between two molecules, how does the "collision theory of bi-molecular gaseous reactions" explain why not all collisions lead to a reaction? What conditions must be met for a successful collision?
+
+
+Chapter 9: Classification of Elements and Periodicity in Properties
+
+
+1.  Imagine the periodic table as a map. How does the "Modern periodic law" organize the elements, and how are the "s, p, d, and f block elements" arranged on this map?
+2.  As you move across a "period" or down a "group" on the periodic table, how do properties like "atomic and ionic radii" change? Visualize the size of atoms.
+3.  How does "ionization enthalpy" vary across the periodic table, and what does it tell us about how easily an atom loses an electron? How does "electron gain enthalpy" relate to an atom's tendency to gain an electron?
+4.  How do "valence and oxidation states" of elements change periodically, and what do they tell us about an element's bonding behavior?
+5.  How does the "chemical reactivity" of elements change as you move across a period and down a group, and how can you explain these trends based on the other periodic properties?
+
+
+Chapter 10: p-block Elements
+
+
+1.  Focus on "Group 13 to Group 18 Elements" on the periodic table. What are the "general trends in physical and chemical properties of elements across the periods and down the groups" for these elements?
+2.  Why does the "first element in each group" often exhibit "unique behavior" compared to the other elements in its group within the p-block? Can you give an example of this unique behavior?
+
+
+Chapter 11: d- and f- Block Elements
+
+
+1.  Imagine the "Transition Elements" as a special block on the periodic table. What are their "general characteristics" in terms of "electronic configuration, occurrence," and common properties like "colour, catalytic behaviour, and magnetic properties"?
+2.  How do properties like "ionization enthalpy" and "oxidation states" vary among the "first-row transition elements"?
+3.  What are "interstitial compounds" and how are "alloys formed" by transition metals?
+4.  How are important compounds like "K2Cr2O7 and KMnO4" prepared, and what are their key "properties and uses"?
+5.  What are "Inner Transition Elements," and where are they located on the periodic table?
+
+
+Chapter 12: Coordination Compounds
+
+
+1.  Imagine a central metal atom surrounded by other molecules or ions. How does "Werner's theory" explain the formation and structure of "coordination compounds"? What are "ligands," and how does "coordination number" describe the number of ligands attached?
+2.  What is "chelation," and how does it affect the stability of coordination compounds? How is "IUPAC nomenclature" used to name these complex compounds systematically?
+3.  How can "isomerism" exist in coordination compounds, leading to different spatial arrangements of ligands?
+4.  How does the "Valence bond approach" explain the bonding in coordination compounds? What are the basic ideas of "Crystal field theory," and how does it account for the "colour and magnetic properties" of these compounds?
+5.  Where do you see the "importance of coordination compounds" in real-world applications, such as "qualitative analysis, extraction of metals, and in biological systems" (like hemoglobin)?
+
+
+Chapter 13: Purification and Characterisation of Organic Compounds
+
+
+1.  Imagine you have a mixture of organic compounds. How would you choose between "crystallization, sublimation, distillation, differential extraction, and chromatography" as purification methods, and what are the basic principles behind each?
+2.  How would you perform "qualitative analysis" to detect the presence of "nitrogen, sulphur, phosphorus, and halogens" in an unknown organic compound? What observable changes would you look for?
+3.  If you need to determine the exact amounts of elements in an organic compound, how would "quantitative analysis" be carried out to estimate "carbon, hydrogen, nitrogen, halogens, sulphur, and phosphorus"?
+4.  Given the percentages of elements from quantitative analysis, how would you calculate the "empirical formulae and molecular formulae" of an organic compound?
+5.  Visualize a scenario where you've purified an organic compound. How would you use its properties and your knowledge of purification techniques to confirm its purity?
+
+
+Chapter 14: Some Basic Principles of Organic Chemistry
+
+
+1.  Imagine a carbon atom. How does its "tetravalency" allow it to form diverse organic compounds? How does "hybridization (s and p)" explain the "shapes of simple molecules" like methane (tetrahedral) or ethene (planar)?
+2.  How are "organic compounds classified based on functional groups" (like alcohols, aldehydes, etc.)? What are "homologous series," and how does "isomerism" (structural and stereoisomerism) lead to different compounds with the same molecular formula?
+3.  You're looking at a covalent bond breaking. What's the difference between "homolytic and heterolytic" fission? How do "free radicals, carbocations, and carbanions" form, and how do their "stability" vary? What are "electrophiles and nucleophiles"?
+4.  How do "electronic displacement" effects like "Inductive effect, electromeric effect, resonance, and hyperconjugation" influence the reactivity and stability of organic molecules?
+5.  Imagine a starting organic molecule undergoing a change. What are the "common types of organic reactions" such as "substitution, addition, elimination, and rearrangement," and how do they transform the original molecule?
+
+
+
+
+
+
+Chapter 15: Hydrocarbons
+
+
+1.  Imagine a vast family of compounds made only of carbon and hydrogen. How are "hydrocarbons classified," and how does "IUPAC nomenclature" provide a systematic way to name them?
+2.  For alkanes, how do "Sawhorse and Newman projections" help us visualize their "conformations" (like for ethane)? What is the "mechanism of halogenation of alkanes"?
+3.  For alkenes, how does "geometrical isomerism" arise? How does the "mechanism of electrophilic addition" explain reactions with hydrogen, halogens, water, and hydrogen halides (including Markownikoff's and peroxide effect)?
+4.  For alkynes, what gives them their "acidic character"? How do they undergo "addition reactions" with hydrogen, halogens, water, and hydrogen halides?
+5.  Picture a benzene ring. What makes "aromatic hydrocarbons" special, and how does the "mechanism of electrophilic substitution" explain reactions like "halogenation, nitration, Friedel-Craft's alkylation and acylation"? How does the "directive influence of the functional group in mono-substituted benzene" affect where new groups attach?
+
+
+Chapter 16: Organic Compounds Containing Halogens
+
+
+1.  Imagine replacing a hydrogen atom in a hydrocarbon with a halogen. What are the "general methods of preparation" for these compounds? How does the "nature of the C-X bond" influence their "properties and reactions," especially the "mechanisms of substitution reactions"?
+2.  What are the "uses" of common halogen-containing compounds like "chloroform, iodoform, freons, and DDT"? What are their "environmental effects"?
+
+
+Chapter 17: Organic Compounds Containing Oxygen
+
+
+1.  Imagine a carbon chain with an oxygen atom attached. What are the "general methods of preparation, properties, reactions, and uses" of organic compounds containing oxygen?
+2.  For alcohols, how would you "identify primary, secondary, and tertiary alcohols"? What is the "mechanism of dehydration" for alcohols?
+3.  For phenols, what gives them their "acidic nature"? How do they undergo "electrophilic substitution reactions" like halogenation, nitration, and sulphonation? What is the "Reimer-Tiemann reaction"?
+4.  For aldehydes and ketones, what is the "nature of the carbonyl group," and why are they susceptible to "nucleophilic addition"? How do their "relative reactivities" compare?
+5.  How do important reactions like "Aldol condensation, Cannizzaro reaction, and Haloform reaction" occur for aldehydes and ketones? How would you use "chemical tests" to distinguish between them? What factors affect the "acidic strength" of "carboxylic acids"?
+
+
+Chapter 18: Organic Compounds Containing Nitrogen
+
+
+1.  Imagine an organic molecule with a nitrogen atom. What are the "general methods of preparation, properties, reactions, and uses" of organic compounds containing nitrogen?
+2.  For amines, how are they "classified" and what are their "basic character" and "structure"? How would you "identify primary, secondary, and tertiary amines"?
+3.  What are "Diazonium Salts," and what is their "importance in Synthetic Organic Chemistry"?
+
+
+Chapter 19: Biomolecules
+
+
+1.  Imagine the building blocks of life. What is the "general introduction and importance of biomolecules" in living organisms?
+2.  For "CARBOHYDRATES," how are they "classified" (aldoses, ketoses)? What are common "monosaccharides" like glucose and fructose, and what are the constituent monosaccharides of "oligosaccharides" like sucrose, lactose, and maltose?
+3.  For "PROTEINS," what is the elementary idea of "-amino acids," and how do they link to form "peptide bonds" and "polypeptides"? How do proteins achieve their "primary, secondary, tertiary, and quaternary structure," and what happens during "denaturation of proteins"? What role do "enzymes" play?
+4.  For "VITAMINS," how are they "classified," and what are their essential "functions" in the body?
+5.  For "NUCLEIC ACIDS," what is the "chemical constitution of DNA and RNA," and what are their crucial "Biological functions"? What is the general idea of "Hormones"?
+
+
+Chapter 20: Principles Related to Practical Chemistry
+
+
+1.  You're in a chemistry lab with an unknown organic compound. How would you "detect extra elements (Nitrogen, sulphur, halogens)" in it? How would you test for the presence of specific "functional groups" like hydroxyl (alcoholic and phenolic), carbonyl (aldehyde and ketones), carboxyl, and amino groups?
+2.  Imagine performing a "titrimetric exercise." What are the "chemical principles involved" in titrating acids against bases using indicators, or in titrating oxalic acid or Mohr’s salt against KMnO4?
+3.  You're given an unknown salt. What are the "chemical principles involved in the qualitative salt analysis" to identify the cations and anions present in it?
+Biology
+
+
+Chapter 1: Diversity in Living World
+
+
+1.  Imagine you find a new organism. What characteristics would you look for to determine if it's "living" and what steps would you take to classify it using binomial nomenclature and the taxonomic hierarchy?
+2.  Visualize the five kingdoms of classification. How would you represent the key distinguishing features of Monera, Protista, and Fungi, perhaps with a diagram showing their major groups, including Lichens, Viruses, and Viroids?
+3.  Draw a phylogenetic tree illustrating the major plant groups (Algae, Bryophytes, Pteridophytes, Gymnosperms, Angiosperms). For each group, highlight three to five salient features and draw two representative examples.
+4.  Create a visual chart categorizing non-chordate phyla and chordate classes. For each category, list three to five distinguishing features and provide two examples, perhaps with simple sketches of the animals.
+5.  Design a flow chart that explains the "Need for classification" and how "Taxonomy & Systematics" help us understand "Biodiversity" and the "Concept of species."
+
+
+Chapter 2: Structural Organisation in Animals and Plants
+
+
+1.  Illustrate a flowering plant and label its different parts (root, stem, leaf, flower, fruit, seed). How would you visually represent the modifications of these parts and the differences between cymose and racemose inflorescences?
+2.  Imagine dissecting a flowering plant. How would you visually identify and differentiate between the various plant tissues? For example, how would you show the anatomy and functions of the root, stem, and leaf?
+3.  Create a diagram showing the arrangement of organs in a typical insect (like a frog, as mentioned). How would you visually trace the path of food through its digestive system, air through its respiratory system, and blood through its circulatory system?
+4.  Design a concept map that connects animal tissues to the different organ systems (digestive, circulatory, respiratory, nervous, reproductive) in an insect, highlighting their respective functions.
+5.  Choose one plant family (e.g., Malvaceae or Leguminosae). How would you visually depict its characteristic features, including flower structure, and provide examples of plants belonging to that family?
+
+
+
+
+
+
+
+
+Chapter 3: Cell Structure and Function
+
+
+1.  Draw and label a prokaryotic cell and a eukaryotic cell, clearly showing the differences between them. How would you visually emphasize the "Cell theory and cell as the basic unit of life"?
+2.  Imagine a "tour" inside a eukaryotic cell. Create a visual guide (like a map) that highlights the structure and function of each organelle within the endomembrane system (ER, Golgi, lysosomes, vacuoles), mitochondria, ribosomes, plastids, microbodies, cytoskeleton, cilia, flagella, and centrioles, and the nucleus.
+3.  Design a visual representation of the major biomolecules (proteins, carbohydrates, lipids, nucleic acids). How would you illustrate their basic structure and key functions within a living cell?
+4.  Create an animated sequence showing the "Enzyme action" mechanism. How would you depict the types, properties, classification, and nomenclature of enzymes in a way that's easy to understand?
+5.  Visually demonstrate the "Cell cycle," "mitosis," and "meiosis." How would you show their respective phases and highlight their significance in terms of genetic continuity and variation?
+
+
+Chapter 4: Plant Physiology
+
+
+1.  Create a detailed diagram of a leaf cross-section, highlighting where "Photosynthesis" takes place. How would you visually represent the "Photochemical and biosynthetic phases of photosynthesis," including cyclic and non-cyclic photophosphorylation and the chemiosmotic hypothesis?
+2.  Design a visual comparison between C3 and C4 pathways in photosynthesis, perhaps showing the different leaf anatomies and initial carbon fixation steps. How would you also illustrate the factors affecting photosynthesis?
+3.  Draw a flow chart depicting "Cellular respiration," including glycolysis, fermentation, the TCA cycle, and the electron transport system. How would you visually track the "Energy relations" and the number of ATP molecules generated?
+4.  Imagine a plant growing from a seed. How would you visually represent the "Phases of Plant growth and plant growth rate," and the processes of "Differentiation, dedifferentiation and redifferentiation"?
+5.  Create a set of "growth regulator" cards, each illustrating an auxin, gibberellin, cytokinin, ethylene, or ABA, and visually depicting its key effects on plant growth and development.
+
+
+
+
+
+
+Chapter 5: Human Physiology
+
+
+1.  Draw the human respiratory system and illustrate the "Mechanism of breathing." How would you visually explain the "Exchange of gases," "transport of gases," and the "regulation of respiration," including respiratory volumes?
+2.  Create an infographic detailing the "Composition of blood," different "blood groups," and the process of "coagulation of blood." How would you also visually explain the structure of the human heart, blood vessels, and the "Cardiac cycle" and "ECG"?
+3.  Illustrate the human excretory system and explain "Urine formation" and "Osmoregulation." How would you visually represent the regulation of kidney function by factors like Renin-angiotensin, Atrial Natriuretic Factor, and ADH?
+4.  Design a diagram showing the structure of a skeletal muscle and the mechanism of "muscle contraction" involving contractile proteins. How would you also visually demonstrate the different types of movement (ciliary, flagellar, muscular) and the structure of various joints?
+5.  Create a visual map of the human endocrine system, labeling the major glands (Hypothalamus, Pituitary, Pineal, Thyroid, Parathyroid, Adrenal, Pancreas, Gonads). How would you visually explain the "Mechanism of hormone action" and give examples of related disorders?
+
+
+Chapter 6: Reproduction
+
+
+1.  Draw a detailed diagram of a flower, labeling its parts involved in "Sexual reproduction in flowering plants." How would you visually represent the "Development of male and female gametophytes" and the process of "Pollination" (types, agencies, examples)?
+2.  Create an animated sequence illustrating "Pollen-Pistil interaction" and "Double fertilization." How would you visually explain the "Post fertilization events," including the development of endosperm, embryo, seed, and fruit?
+3.  Design a visual timeline of human reproduction, starting from "Gametogenesis (spermatogenesis & oogenesis)" through "Fertilisation," "embryo development up to blastocyst formation," and "implantation."
+4.  Illustrate the male and female reproductive systems in humans. How would you visually depict the "Menstrual cycle" and basic concepts of "Pregnancy and placenta formation," "Parturition," and "Lactation"?
+5.  Create a public awareness poster about "Reproductive health." How would you visually present the "Need for reproductive health," methods of "Birth control," "Contraception," and basic information on "STDs" and "assisted reproductive technologies" like IVF, ZIFT, and GIFT?
+
+
+Chapter 7: Genetics and Evolution
+
+
+1.  Design a series of Punnett squares and pedigree charts to visually explain "Mendelian Inheritance" and its deviations, such as "Incomplete dominance," "Codominance," "Multiple alleles," and "Pleiotropy."
+2.  Create a visual representation of the "Chromosome theory of inheritance," showing "Chromosomes and genes" and explaining "Sex determination" in humans, birds, and honey bees. How would you also illustrate "Linkage and crossing over" and "Sex-linked inheritance" like Haemophilia and Color blindness?
+3.  Draw the "Structure of DNA and RNA" and visually explain "DNA packaging" and "DNA replication." How would you illustrate the "Central dogma" of molecular biology, including transcription, genetic code, and translation?
+4.  Create an interactive model of the "Lac Operon" to visually demonstrate "Gene expression and regulation." How would you also explain the concepts of the "Genome and human genome project" and "DNA fingerprinting"?
+5.  Design a timeline of "Evolution," starting from the "Origin of life." How would you visually present the "Evidences for biological evolution" (Paleontology, comparative anatomy, embryology, molecular evidence) and explain "Darwin's contribution" and the "Modern Synthetic theory of Evolution"?
+
+
+Chapter 8: Biology and Human Welfare
+
+
+1.  Create a visual "pathogen gallery" depicting common pathogens causing human diseases (Malaria, Filariasis, Ascariasis, Typhoid, Pneumonia, common cold, amoebiasis, ringworm, dengue, chikungunya). For each, visually show its mode of transmission and basic symptoms.
+2.  Design an infographic explaining the "Basic concepts of immunology," including how "vaccines" work to protect against diseases.
+3.  Create a visual awareness campaign highlighting the dangers of "Cancer," "HIV and AIDS," and the consequences of "Adolescence, drug and alcohol abuse," and "Tobacco abuse."
+4.  Illustrate the various roles of "Microbes in human welfare," such as in "household food processing" (e.g., yogurt making), "industrial production" (e.g., alcohol), "sewage treatment," and "energy generation."
+5.  Draw a diagram showing how microbes act as "biocontrol agents" and "biofertilizers" in agriculture, providing examples for each.
+
+
+
+
+
+
+
+
+Chapter 9: Biotechnology and its Applications
+
+
+1.  Design a step-by-step visual guide to "Genetic engineering (Recombinant DNA technology)," explaining the "Principles and process of Biotechnology."
+2.  Create an infographic showcasing the "Application of Biotechnology in health," specifically illustrating the production of "Human insulin and vaccine production" and explaining "Genes therapy."
+3.  Draw a comparison chart illustrating different "Genetically modified organisms," focusing on "Bt crops" and their benefits.
+4.  Visually explain the concept of "Transgenic Animals" and their applications.
+5.  Design a set of "ethical dilemma" cards that present "Biosafety issues," "Biopiracy," and "patents" related to biotechnology, prompting discussion and understanding.
+
+
+Chapter 10: Ecology and Environment
+
+
+1.  Draw a diagram showing different "Organisms and their environment," illustrating various "Population interactions" like mutualism, competition, predation, and parasitism.
+2.  Create a series of graphs illustrating "Population attributes" such as growth curves, birth rate, death rate, and age distribution.
+3.  Design a visual model of an "Ecosystem," labeling its "Pattens, components," and illustrating "productivity and decomposition."
+4.  Draw different types of "Energy flow" pyramids (numbers, biomass, energy) and explain what each represents in an ecosystem.
+5.  Create a "Biodiversity conservation" map, highlighting "Hotspots," explaining the "Importance of Biodiversity," and showing examples of "Endangered Organisms" and the locations of "Biosphere reserves," "National parks and sanctuaries," and "Sacred Groves."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mathematics
+
+
+
+
+1. Sets, Relations and Functions
+
+
+1. Imagine you have two bags of marbles, Bag A and Bag B. If Bag A has red, blue, and green marbles, and Bag B has blue, yellow, and orange marbles, how would you show the marbles that are in *both* bags using a drawing?
+2. If a class of students is represented by a set, and the students who play soccer are a subset, how would you visually represent the students who *don't* play soccer?
+3. Think about a family tree. How would you draw a relationship where every parent has a child, and every child has exactly one set of parents? What type of relation is this?
+4. If you have a machine that takes a number and adds 5 to it, and then another machine that takes a number and multiplies it by 2, how would you draw what happens if you put a number through the "add 5" machine first, and then through the "multiply by 2" machine?
+5. Imagine you have a group of students and a group of chairs. If every student gets one chair and every chair is taken by one student, what kind of function does this represent? Can you draw it?
+
+
+2. Complex Numbers Quadratic Equations
+
+
+1. Imagine a treasure map where coordinates are complex numbers. How would you draw the location of a treasure at $3 + 4i$ on a grid?
+2. If you combine two movements on a map, one represented by $2 + i$ and another by $1 + 3i$, how would you draw your final position from the start?
+3. Think of a clock's minute hand as a line. If the hand is at 3 o'clock, what's its "angle" or "argument" if 0 is at 12 o'clock and it moves clockwise?
+4. You have a path that can be described by the equation $x^2 - 4 = 0$. How many points on a number line would you mark for the solutions? Can you show them?
+5. If you know that a jumping robot lands at positions 2 and 5 on a number line, how would you write an equation that describes all possible jump paths like this?
+
+
+3. Matrices And Determinants
+
+
+1. Imagine you have two rectangular arrangements of toys. One has 2 rows and 3 columns, and another has 3 rows and 1 column. How would you draw what happens if you try to combine them in a specific way (matrix multiplication)?
+2. Think of a stretchy fabric. If you stretch it in a way that its area changes, how would you use numbers in a 2x2 grid (a determinant) to represent how much the area has increased or decreased?
+3. If you have a system of three scales, and each scale shows the total weight of different combinations of three mystery items, how would you represent this problem using a grid of numbers (a matrix) to help find the weight of each item?
+4. You have a map with three straight roads intersecting. How would you use numbers in a grid (determinants) to figure out if these three roads meet at a single point, or if they form a triangle?
+5. Imagine you have a puzzle where you need to find the inverse operation to "undo" a specific transformation (like rotating and scaling an image). How would you represent this "undo" operation using a special kind of numerical grid (an inverse matrix)?
+
+
+4. Permutations and Combinations
+
+
+1. You have 3 different colored flags: red, blue, and green. How many different ways can you arrange them in a line? Draw each unique arrangement.
+2. Imagine you have 4 friends, and there are 2 empty seats. How many different ways can your friends sit in those seats? Draw each unique seating arrangement.
+3. You have 5 different fruits, and you want to choose 3 to put in a basket. How many different combinations of fruits can you pick? Draw a few examples of these unique baskets (the order doesn't matter).
+4. If you have 6 unique books and you want to arrange 4 of them on a shelf, how would you calculate the number of different ways to do this?
+5. From a group of 7 people, you need to select a team of 3. How would you calculate how many different teams you could form?
+
+
+5. Binomial Theorem and Its Simple Applications
+
+
+1. Imagine you're building a tower with two types of blocks, A and B. If you want to build a tower of 3 blocks, how many different combinations of A and B blocks are there? (e.g., AAA, AAB, ABA, etc.)
+2. If you flip a coin 4 times, how many ways can you get exactly 2 heads? Draw the sequence of flips (e.g., HHTT, HTHT).
+3. Think about a specific term in the expansion of $(x+y)^n$. If you have $(x+y)^3$, how would you visualize getting the term with $x^2y^1$?
+4. You're designing a new game where you roll a special 6-sided die N times. How would you represent the possible outcomes and their probabilities using a pattern based on the binomial theorem?
+5. Imagine you have a row of 5 light bulbs that can either be on or off. How would you use a simple application of the binomial theorem to figure out how many different patterns of on/off lights are possible?
+
+
+6. Sequence and Series
+
+
+1. Imagine a staircase where each step is 1 foot higher than the last. If the first step is 2 feet high, draw the height of the first 5 steps. What kind of progression is this?
+2. You have a magical bouncing ball that bounces to half its previous height with each bounce. If it starts at 10 feet, draw the height of its first 4 bounces. What kind of progression is this?
+3. If you have two numbers, say 2 and 8, how would you find a number that fits perfectly in between them, making an arithmetic progression? Draw it on a number line.
+4. You have two numbers, say 3 and 12. How would you find a number that fits perfectly in between them, making a geometric progression?
+5. Think about a situation where two quantities are growing. If one grows by adding a fixed amount and the other grows by multiplying by a fixed amount, how would you visually compare their growth over time?
+
+
+7. Limit Continuity Differentiability
+
+
+1. Imagine a car approaching a stop sign. How would you draw a graph that shows the car's speed getting closer and closer to zero as it reaches the stop sign? This illustrates a limit.
+2. Think of drawing a line on a piece of paper without lifting your pencil. What property of the function does this continuous line represent?
+3. If you have a smooth hill and you're rolling a ball down it, how would you draw a tangent line at a specific point on the hill to show the instantaneous steepness (rate of change) at that point?
+4. Imagine a container being filled with water. How would you draw a graph showing the rate at which the water level is rising over time?
+5. You are trying to find the highest point on a roller coaster track. How would you draw the track and use the concept of derivatives to locate that peak?
+
+
+8. Integral Calculus
+
+
+1. Imagine you have a speed graph for a car. How would you use shading on the graph to represent the total distance the car traveled over a certain period? This is like finding the antiderivative.
+2. You want to find the area under a curved roof. How would you draw this curve and then show how you could break it into tiny rectangles to estimate the total area?
+3. Think about filling a uniquely shaped swimming pool. How would you draw how you could break down the pool's volume into smaller, easier-to-calculate sections to find the total volume?
+4. If you have a function representing the flow of water into a tank, how would you draw how definite integrals can help you find the *exact* amount of water in the tank between two specific times?
+5. You are measuring the area of a garden shaped like a curved region. How would you draw the garden and then show how you would use calculus to find its precise area?
+
+
+9. Differential Equations
+
+
+1. Imagine a cooling cup of coffee. How would you write and visualize an equation that describes how its temperature changes over time, considering it loses heat to the surroundings?
+2. Think about a population of bacteria growing. How would you draw a graph that shows the population increasing at a rate proportional to its current size, and how would you represent the equation describing this growth?
+3. If you have a mixture in a tank, and water with a certain concentration of salt is flowing in and out, how would you set up an equation to describe the change in salt concentration over time?
+4. You have a spring attached to a weight. How would you draw the oscillating motion of the weight and write a simple equation that describes its position over time?
+5. Consider a situation where the rate of change of a quantity depends on the quantity itself and also on an external factor (e.g., the rate of change of a car's speed depends on its current speed and the engine's power). How would you represent this relationship with an equation?
+
+
+10. Co-Ordinate Geometry
+
+
+1. Imagine a treasure hunt map with a grid. If you are at point (2,3) and the treasure is at (7,5), how would you draw the path and calculate the straight-line distance to the treasure?
+2. You have two straight roads on a map. How would you draw them intersecting and then show how you could find the coordinates of the exact point where they cross?
+3. Think of a circular fence around a park. If you know the center of the park and the radius of the fence, how would you draw the fence on a grid?
+4. Imagine a flashlight shining a beam on a wall, creating different shapes depending on how you hold it. How would you draw the shapes of a parabola, ellipse, and hyperbola that can be formed by the light beam?
+5. You have a triangle drawn on a grid. How would you locate and mark the exact center point (centroid), the point where altitudes intersect (orthocenter), and the center of the circle passing through all vertices (circumcenter)?
+
+
+11. Three Dimensional Geometry
+
+
+1. Imagine a fly in a room. If the corner of the room is (0,0,0), how would you describe and draw the fly's position at (3,2,4)?
+2. You have two friends standing in a room. How would you represent their positions as points and draw the shortest line connecting them in 3D space?
+3. Think of two airplanes flying in different directions, not necessarily intersecting. How would you draw their paths and illustrate the shortest distance between them?
+4. If you have a line extending through space, how would you describe its direction using a set of numbers (direction ratios or cosines)?
+5. Imagine a long, thin stick placed in a room. How would you write an equation that describes every point along that stick?
+
+
+12. Vector Algebra
+
+
+1. Imagine you are walking 3 meters east and then 4 meters north. How would you draw your journey as arrows (vectors) and then draw a single arrow representing your final displacement from the start?
+2. You have a boat trying to cross a river. The boat's engine pushes it forward, and the river current pushes it sideways. How would you draw these two forces as arrows and then draw the resulting path of the boat?
+3. Think of pushing a heavy box. If you push with a certain force in one direction, and your friend pushes with another force in a different direction, how would you draw the combined effect of your pushes?
+4. If you have two forces acting on an object, how would you calculate and draw the "dot product" to understand the work done by one force in the direction of another?
+5. You have two rotating fans. How would you use a visual representation of the "cross product" to show the direction of the combined effect of their rotations?
+
+
+
+
+
+
+
+
+
+
+13. Statistics Probability
+
+
+1. Imagine a bar chart showing the number of students who scored different grades on a test. How would you visually identify the average grade (mean), the middle grade (median), and the most frequent grade (mode)?
+2. You have a set of data points (e.g., daily temperatures). How would you draw a visual representation (like a box plot or deviation from the mean) to show how spread out the temperatures are?
+3. Think about flipping a coin. If you flip it once, what are the chances of getting heads or tails? How would you write this as a probability?
+4. If you draw a card from a deck, and then another without replacing the first, how would you use a tree diagram to show the probability of specific sequences of cards?
+5. Imagine a scenario where a doctor is trying to diagnose a rare disease. How would you use a diagram (like a probability tree) to explain how Bayes' theorem helps calculate the probability of having the disease given a positive test result?
+
+
+14. Trigonometry
+
+
+1. Imagine a Ferris wheel rotating. If you are sitting on the wheel, how would you draw a graph that shows your height above the ground as the wheel spins?
+2. You're looking at a tall building from a distance. How would you use a right-angled triangle to represent your position, the building's height, and the distance to the building, and then calculate the building's height using angles?
+3. Think about a pendulum swinging back and forth. How would you draw its motion and represent its position over time using trigonometric functions?
+4. If you know the value of $\sin(\theta)$, how would you use a unit circle to find the corresponding angle(s) $\theta$?
+5. Imagine a sound wave. How would you draw its periodic nature using trigonometric functions like sine or cosine, and how would you represent its amplitude and frequency?

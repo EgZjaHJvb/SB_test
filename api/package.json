@@ -1,0 +1,53 @@
+{
+    "name": "quizitt-backend",
+    "version": "1.0.0",
+    "description": "backend for quizitt platform",
+    "license": "ISC",
+    "author": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "format": "prettier --write .",
+        "format:check": "prettier --check ."
+    },
+    "dependencies": {
+        "@google/genai": "^1.0.0",
+        "@noble/hashes": "^1.8.0",
+        "axios": "^1.9.0",
+        "bcryptjs": "^3.0.2",
+        "cloudinary": "^2.6.1",
+        "cookie-parser": "^1.4.7",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "dayjs": "^1.11.13",
+        "dotenv": "^16.5.0",
+        "express": "^5.1.0",
+        "form-data": "^4.0.3",
+        "fs-extra": "^11.3.0",
+        "jsonwebtoken": "^9.0.2",
+        "mongodb": "^6.16.0",
+        "mongoose": "^8.15.0",
+        "multer": "^2.0.0",
+        "nodemailer": "^7.0.3",
+        "passport": "^0.7.0",
+        "passport-google-oauth20": "^2.0.0",
+        "passport-local": "^1.0.0",
+        "passport-oauth2": "^1.8.0",
+        "pdf-lib": "^1.17.1",
+        "pdf-parse": "^1.1.1",
+        "pdf2json": "^3.1.5",
+        "pdfjs-dist": "^5.2.133",
+        "redis": "^5.0.1",
+        "streamifier": "^0.1.1",
+        "stripe": "^18.2.1",
+        "tesseract.js": "^6.0.1",
+        "textract": "^2.5.0"
+    },
+    "devDependencies": {
+        "morgan": "^1.10.0",
+        "nodemon": "^3.1.10",
+        "prettier": "^3.5.3"
+    }
+}

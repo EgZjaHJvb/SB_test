@@ -1,0 +1,1967 @@
+{
+  "subjects": [
+    {
+      "subject_name": "Physics",
+      "chapters": [
+        {
+          "chapter_id": 1,
+          "chapter_name": "Physics and Measurements",
+          "subtopics": [
+            {
+              "subtopic_id": 1,
+              "subtopic_name": "Units of measurement; systems of units; SI units, fundamental and derived units, least count, errors in measurement, significant figures",
+              "questions": {
+                "mcq": [
+                  {
+                    "questionId": "dc07202c-4d75-4b80-98e3-860f9c0c7251",
+                    "questionText": "Which of the following is NOT a fundamental SI unit?",
+                    "options": [
+                      "Kilogram (kg)",
+                      "Ampere (A)",
+                      "Newton (N)",
+                      "Kelvin (K)"
+                    ],
+                    "correctAnswer": "Newton (N)",
+                    "explanation": "The Newton (N) is a derived unit for force, defined as kg\u22c5m/s\u00b2. The fundamental SI units are Kilogram (kg), Ampere (A), Kelvin (K), Meter (m), Second (s), Mole (mol), and Candela (cd)."
+                  },
+                  {
+                    "questionId": "fb08d6c1-be03-4358-84f8-395a37a35556",
+                    "questionText": "A student uses a ruler with a least count of 0.1 cm to measure the length of a pencil. The measurement is recorded as 15.3 cm. What is the absolute error in this measurement?",
+                    "options": ["0.05 cm", "0.1 cm", "0.15 cm", "0.01 cm"],
+                    "correctAnswer": "0.1 cm",
+                    "explanation": "The absolute error in a measurement is typically taken to be equal to the least count of the measuring instrument. In this case, the least count of the ruler is 0.1 cm, so the absolute error is also 0.1 cm."
+                  },
+                  {
+                    "questionId": "a711f99c-d4ac-478a-94fd-168fd05b3f06",
+                    "questionText": "The diameter of a sphere is measured to be 2.62 cm using a vernier caliper with a least count of 0.01 cm. The radius of the sphere, with due regard to significant figures, should be recorded as:",
+                    "options": ["1.31 cm", "1.3 cm", "1.310 cm", "1.3100 cm"],
+                    "correctAnswer": "1.31 cm",
+                    "explanation": "The radius is half the diameter, so radius = 2.62 cm / 2 = 1.31 cm. Since the diameter has three significant figures, the radius should also have three significant figures. 1.310 and 1.3100 imply a higher level of precision than justified by the original measurement."
+                  },
+                  {
+                    "questionId": "a7573790-7ee8-4249-9599-e3f5260daccb",
+                    "questionText": "Which of the following is an example of a systematic error?",
+                    "options": [
+                      "Random fluctuations in temperature",
+                      "Parallax error in reading a scale",
+                      "Electrical noise in an instrument",
+                      "Statistical variations in repeated measurements"
+                    ],
+                    "correctAnswer": "Parallax error in reading a scale",
+                    "explanation": "A systematic error is a consistent error that occurs in the same direction each time a measurement is made. Parallax error, caused by incorrect positioning of the eye when reading a scale, is a systematic error. Random fluctuations, electrical noise, and statistical variations are examples of random errors."
+                  }
+                ],
+                "fillInTheBlanks": [
+                  {
+                    "questionId": "0913fda6-c3ae-4ab6-9ee2-56633fdc2adb",
+                    "question": "The SI unit of temperature is ___.",
+                    "options": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+                    "correctAnswer": "Kelvin",
+                    "explanation": "Kelvin is the base unit of temperature in the International System of Units (SI). Celsius and Fahrenheit are common units for measuring temperature, but they are not the standard SI unit. Rankine is another absolute temperature scale, like Kelvin, but not part of the SI system."
+                  },
+                  {
+                    "questionId": "f638258f-5165-473a-80d4-823f3e2cab90",
+                    "question": "The ___ is the smallest value that can be accurately measured by an instrument.",
+                    "options": [
+                      "Accuracy",
+                      "Precision",
+                      "Least Count",
+                      "Error"
+                    ],
+                    "correctAnswer": "Least Count",
+                    "explanation": "The least count of an instrument is the smallest change in the measured quantity that the instrument can detect. It determines the resolution of the measurement. Accuracy refers to how close a measurement is to the true value, precision refers to the repeatability of measurements, and error is the difference between the measured value and the true value."
+                  },
+                  {
+                    "questionId": "907dcf08-4529-40ef-93ce-a3f5342142e2",
+                    "question": "Area is a ___ unit, derived from the fundamental unit of length.",
+                    "options": [
+                      "Fundamental",
+                      "Base",
+                      "Derived",
+                      "Supplementary"
+                    ],
+                    "correctAnswer": "Derived",
+                    "explanation": "Area is a derived unit because it is defined in terms of other fundamental units, specifically the length squared (e.g., square meters). Fundamental or base units are those defined independently (like meter for length, kilogram for mass, etc.). Supplementary units are a class of units that were previously part of the SI but have been reclassified. None of these are relevant here, the important distinction is that area is created by multiplying length by length."
+                  },
+                  {
+                    "questionId": "51c381a9-786f-4580-9b17-a3899942f7e0",
+                    "question": "In multiplication or division, the final result should retain as many significant figures as the number with the ___ number of significant figures.",
+                    "options": ["Highest", "Lowest", "Average", "Greatest"],
+                    "correctAnswer": "Lowest",
+                    "explanation": "When multiplying or dividing numbers, the result should be rounded to have the same number of significant figures as the number with the *fewest* significant figures used in the calculation. This is because the precision of the final result is limited by the least precise measurement used."
+                  }
+                ],
+                "trueFalse": [
+                  {
+                    "questionId": "505c6035-bda6-4427-998d-8685e4c60451",
+                    "question": "The least count of a measuring instrument is the smallest value that can be accurately measured using that instrument.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "The least count of a measuring instrument refers to the smallest change in the measured quantity that can be detected. Therefore, it represents the minimum value that can be accurately measured using that instrument."
+                  },
+                  {
+                    "questionId": "dffe6797-f904-4e0c-a2de-305f09445ec6",
+                    "question": "All derived units in the SI system can be expressed solely in terms of the seven fundamental units: meter, kilogram, second, ampere, kelvin, mole, and candela.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "Derived units are formed by combining fundamental units using multiplication or division. Therefore, any derived unit can be expressed as a combination of the seven fundamental SI units."
+                  },
+                  {
+                    "questionId": "56323969-4586-45d6-94ee-283b5e472a95",
+                    "question": "Systematic errors in measurement can be reduced by taking multiple readings and calculating the average.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "Systematic errors are consistent and repeatable errors that typically arise from flaws in the instrument or experimental technique. Taking multiple readings and averaging them reduces random errors, not systematic errors. Systematic errors can only be reduced by identifying and correcting the source of the error (e.g., calibrating the instrument)."
+                  },
+                  {
+                    "questionId": "d8574f64-4f84-4f0a-8262-e555c60992a5",
+                    "question": "In the number 0.002050, there are 4 significant figures.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "Leading zeros are not significant. Trailing zeros in a number containing a decimal point are significant. Therefore, the significant figures in 0.002050 are 2, 0, 5, and 0. Hence, there are 4 significant figures."
+                  }
+                ],
+                "matchthefollowing": [
+                  {
+                    "questionId": "256eb3ef-4da7-448e-a35d-2889f5a79676",
+                    "questionText": "Match the following units to the physical quantity they measure:",
+                    "left": ["Kilogram", "Second", "Kelvin", "Meter", "Mole"],
+                    "right": [
+                      "Amount of Substance",
+                      "Length",
+                      "Time",
+                      "Mass",
+                      "Temperature"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Kilogram",
+                        "correctRight": "Mass",
+                        "explanation": "Kilogram is the SI unit of mass."
+                      },
+                      {
+                        "left": "Second",
+                        "correctRight": "Time",
+                        "explanation": "Second is the SI unit of time."
+                      },
+                      {
+                        "left": "Kelvin",
+                        "correctRight": "Temperature",
+                        "explanation": "Kelvin is the SI unit of thermodynamic temperature."
+                      },
+                      {
+                        "left": "Meter",
+                        "correctRight": "Length",
+                        "explanation": "Meter is the SI unit of length."
+                      },
+                      {
+                        "left": "Mole",
+                        "correctRight": "Amount of Substance",
+                        "explanation": "Mole is the SI unit of amount of substance."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "673eb552-b8ed-4d6c-893b-788711ce0858",
+                    "questionText": "Match the following terms related to errors in measurement with their definitions:",
+                    "left": [
+                      "Systematic Error",
+                      "Random Error",
+                      "Absolute Error",
+                      "Percentage Error"
+                    ],
+                    "right": [
+                      "Error with a consistent bias, affecting all measurements in the same direction.",
+                      "Error arising from unpredictable variations in measurement process.",
+                      "The ratio of the absolute error to the measured value, expressed as a percentage.",
+                      "The difference between the measured value and the true value."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Systematic Error",
+                        "correctRight": "Error with a consistent bias, affecting all measurements in the same direction.",
+                        "explanation": "Systematic errors are consistent and predictable."
+                      },
+                      {
+                        "left": "Random Error",
+                        "correctRight": "Error arising from unpredictable variations in measurement process.",
+                        "explanation": "Random errors fluctuate around the true value."
+                      },
+                      {
+                        "left": "Absolute Error",
+                        "correctRight": "The difference between the measured value and the true value.",
+                        "explanation": "Absolute error is the magnitude of the difference."
+                      },
+                      {
+                        "left": "Percentage Error",
+                        "correctRight": "The ratio of the absolute error to the measured value, expressed as a percentage.",
+                        "explanation": "Percentage error expresses the relative size of the error."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "3657dda5-c28e-4375-acf6-19213db88ba2",
+                    "questionText": "Match the derived units with their definitions:",
+                    "left": ["Newton", "Joule", "Watt", "Pascal"],
+                    "right": [
+                      "kg\u22c5m\u00b2/s\u00b2",
+                      "kg\u22c5m/s\u00b2",
+                      "kg/(m\u22c5s\u00b2)",
+                      "kg\u22c5m\u00b2/s\u00b3"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Newton",
+                        "correctRight": "kg\u22c5m/s\u00b2",
+                        "explanation": "Newton (N) is the SI unit of force, defined as kg\u22c5m/s\u00b2."
+                      },
+                      {
+                        "left": "Joule",
+                        "correctRight": "kg\u22c5m\u00b2/s\u00b2",
+                        "explanation": "Joule (J) is the SI unit of energy, defined as kg\u22c5m\u00b2/s\u00b2."
+                      },
+                      {
+                        "left": "Watt",
+                        "correctRight": "kg\u22c5m\u00b2/s\u00b3",
+                        "explanation": "Watt (W) is the SI unit of power, defined as kg\u22c5m\u00b2/s\u00b3."
+                      },
+                      {
+                        "left": "Pascal",
+                        "correctRight": "kg/(m\u22c5s\u00b2)",
+                        "explanation": "Pascal (Pa) is the SI unit of pressure, defined as kg/(m\u22c5s\u00b2)."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "9c600f21-06b2-4999-99c2-3490cb33b2d9",
+                    "questionText": "Match the following concepts to their descriptions:",
+                    "left": [
+                      "Least Count",
+                      "Significant Figures",
+                      "Fundamental Units",
+                      "Derived Units"
+                    ],
+                    "right": [
+                      "The smallest value that can be measured by an instrument.",
+                      "Units that can be expressed in terms of fundamental units.",
+                      "Units that cannot be expressed in terms of other units.",
+                      "Digits in a number that carry meaning contributing to its measurement resolution."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Least Count",
+                        "correctRight": "The smallest value that can be measured by an instrument.",
+                        "explanation": "The least count determines the precision of the instrument."
+                      },
+                      {
+                        "left": "Significant Figures",
+                        "correctRight": "Digits in a number that carry meaning contributing to its measurement resolution.",
+                        "explanation": "Significant figures indicate the accuracy of a measurement."
+                      },
+                      {
+                        "left": "Fundamental Units",
+                        "correctRight": "Units that cannot be expressed in terms of other units.",
+                        "explanation": "Fundamental units are the base units of a system."
+                      },
+                      {
+                        "left": "Derived Units",
+                        "correctRight": "Units that can be expressed in terms of fundamental units.",
+                        "explanation": "Derived units are combinations of fundamental units."
+                      }
+                    ]
+                  }
+                ],
+                "flashcard": [
+                  {
+                    "questionId": "ac3a9ca5-5e04-4589-9255-dd97d916f7e0",
+                    "term": "Which of the following is NOT a fundamental SI unit?",
+                    "definitionOptions": [
+                      "Kilogram (kg)",
+                      "Ampere (A)",
+                      "Joule (J)",
+                      "Kelvin (K)"
+                    ],
+                    "correctDefinition": "Joule (J)",
+                    "explanation": "The Joule (J) is a derived unit representing energy, derived from fundamental units like kilogram, meter, and second. The Kilogram (kg) measures mass, the Ampere (A) measures electric current, and the Kelvin (K) measures thermodynamic temperature, all of which are fundamental SI units."
+                  },
+                  {
+                    "questionId": "f13317d0-5792-42dc-9f0c-554e2ce8d1a0",
+                    "term": "What does the 'least count' of a measuring instrument represent?",
+                    "definitionOptions": [
+                      "The maximum value that can be measured by the instrument.",
+                      "The smallest value that can be accurately measured by the instrument.",
+                      "The average of all the readings taken by the instrument.",
+                      "The uncertainty in the measured value, regardless of the instrument's precision."
+                    ],
+                    "correctDefinition": "The smallest value that can be accurately measured by the instrument.",
+                    "explanation": "The least count is the smallest increment a measuring instrument can reliably detect. It directly affects the precision of the measurement. A smaller least count means the instrument can measure smaller differences and thus provide more precise readings."
+                  },
+                  {
+                    "questionId": "61cbd248-3b19-471c-8543-da9788d6d503",
+                    "term": "A measurement is recorded as 2.030 m. How many significant figures are there?",
+                    "definitionOptions": ["2", "3", "4", "5"],
+                    "correctDefinition": "4",
+                    "explanation": "All non-zero digits are significant. Zeros between non-zero digits are significant. Trailing zeros to the right of the decimal point are significant.  Therefore, 2, 0, 3 and the trailing zero after 3 are all significant, giving a total of 4 significant figures."
+                  },
+                  {
+                    "questionId": "c69d5f2d-fa59-47bb-9360-1df6924acb62",
+                    "term": "Which type of error can be minimized by taking multiple measurements and averaging the results?",
+                    "definitionOptions": [
+                      "Systematic error",
+                      "Gross error",
+                      "Random error",
+                      "Instrumental error"
+                    ],
+                    "correctDefinition": "Random error",
+                    "explanation": "Random errors are unpredictable fluctuations in measurement that can occur in either direction. Averaging multiple measurements helps to cancel out these random fluctuations, resulting in a more accurate estimate of the true value. Systematic errors, gross errors, and instrumental errors are consistent biases that will not be reduced by averaging."
+                  }
+                ]
+              }
+              
+            },
+            {
+              "subtopic_id": 2,
+              "subtopic_name": "Dimensions of physical quantities, dimensional analysis, and its applications.",
+              "questions": {
+                "mcq": [
+                  {
+                    "questionId": "56c94e3c-db98-4ea2-bdec-c021833d30c0",
+                    "questionText": "Which of the following physical quantities has the dimensions of [M L^2 T^-2]?",
+                    "options": ["Power", "Force", "Energy", "Pressure"],
+                    "correctAnswer": "Energy",
+                    "explanation": "Energy, work, and torque all have the dimensions of [M L^2 T^-2].  Power is [M L^2 T^-3], Force is [M L T^-2], and Pressure is [M L^-1 T^-2]."
+                  },
+                  {
+                    "questionId": "cafd5b07-5432-46ae-bea5-0d49b6a3bf54",
+                    "questionText": "A student derives the following equation for the velocity (v) of a wave on a string: v = \u221a(T/\u03bc), where T is the tension in the string and \u03bc is the mass per unit length. What are the dimensions of \u03bc?",
+                    "options": ["[M L^-1]", "[M L]", "[L T^-1]", "[M T^-2]"],
+                    "correctAnswer": "[M L^-1]",
+                    "explanation": "Mass per unit length (\u03bc) is mass (M) divided by length (L), therefore its dimensions are [M L^-1]."
+                  },
+                  {
+                    "questionId": "ad74c18b-bff8-4fec-a3b7-0eacec0232ef",
+                    "questionText": "If the period of oscillation (T) of a simple pendulum depends on its length (l) and the acceleration due to gravity (g), which of the following formulas could be dimensionally correct?",
+                    "options": [
+                      "T = 2\u03c0\u221a(l/g)",
+                      "T = 2\u03c0\u221a(g/l)",
+                      "T = 2\u03c0(l*g)",
+                      "T = 2\u03c0(l/g)"
+                    ],
+                    "correctAnswer": "T = 2\u03c0\u221a(l/g)",
+                    "explanation": "The period T has dimensions [T].  Length l has dimensions [L] and acceleration due to gravity g has dimensions [L T^-2].  Only T = 2\u03c0\u221a(l/g) results in [T] = \u221a([L]/[L T^-2]) = \u221a([T^2]) = [T], which is dimensionally consistent."
+                  },
+                  {
+                    "questionId": "1683d798-5e3e-4fc0-9899-8e53a9ddf5e6",
+                    "questionText": "Which of the following pairs of physical quantities have different dimensions?",
+                    "options": [
+                      "Work and Energy",
+                      "Torque and Moment of Inertia",
+                      "Impulse and Momentum",
+                      "Force and Weight"
+                    ],
+                    "correctAnswer": "Torque and Moment of Inertia",
+                    "explanation": "Work and energy both have dimensions [M L^2 T^-2]. Impulse and momentum both have dimensions [M L T^-1]. Force and weight are both forces and have dimensions [M L T^-2]. Torque has dimensions [M L^2 T^-2] and Moment of Inertia has dimensions [M L^2]. Therefore, Torque and Moment of Inertia have different dimensions (although related)."
+                  }
+                ],
+                "fillInTheBlanks": [
+                  {
+                    "questionId": "a9b6dfca-8afb-49e0-bc7b-5b5c647471aa",
+                    "question": "The principle of homogeneity of dimensions states that an equation is dimensionally correct only if each term in the equation has the same ___.",
+                    "options": ["numerical value", "sign", "dimension", "unit"],
+                    "correctAnswer": "dimension",
+                    "explanation": "The principle of homogeneity of dimensions dictates that only terms with the same dimension can be added or subtracted in a physically meaningful equation.  Otherwise, you'd be adding apples and oranges."
+                  },
+                  {
+                    "questionId": "fe039f57-1087-4f6b-a2b3-e606c21081e5",
+                    "question": "Using dimensional analysis, we can derive a relationship between physical quantities, but it cannot determine the value of a dimensionless ___.",
+                    "options": ["variable", "equation", "constant", "exponent"],
+                    "correctAnswer": "constant",
+                    "explanation": "Dimensional analysis is powerful for finding relationships between quantities, but it relies solely on the dimensions involved. Dimensionless constants, like \u03c0 or numerical factors, do not have dimensions and thus cannot be determined through this method. They must be found experimentally or through more detailed theoretical analysis."
+                  },
+                  {
+                    "questionId": "c1d7164d-5354-471d-b06c-247dd82b5f3b",
+                    "question": "The dimension of power can be expressed as [M L^2 T^-3], where M represents mass, L represents length, and T represents ___.",
+                    "options": ["temperature", "time", "charge", "current"],
+                    "correctAnswer": "time",
+                    "explanation": "Power is the rate at which work is done or energy is transferred.  Work (or energy) has dimensions of [M L^2 T^-2] (force times distance). Power, being work/time, therefore has dimensions of [M L^2 T^-3]."
+                  },
+                  {
+                    "questionId": "238555ba-aade-415e-a02d-3e1f6e156d63",
+                    "question": "One application of dimensional analysis is to check the ___ of a physical equation or formula.",
+                    "options": [
+                      "accuracy",
+                      "correctness",
+                      "consistency",
+                      "simplification"
+                    ],
+                    "correctAnswer": "correctness",
+                    "explanation": "Dimensional analysis is used primarily to check whether an equation is *dimensionally correct*. It ensures that the dimensions on both sides of the equation are the same. While it doesn't guarantee the equation is perfectly accurate (as it doesn't account for dimensionless constants), it's a crucial step to verify its validity and identify potential errors."
+                  }
+                ],
+                "trueFalse": [
+                  {
+                    "questionId": "c36c9f1f-0229-4964-afc2-8ecccde57ab8",
+                    "question": "Dimensional analysis can determine the exact numerical value of a dimensionless constant in a physical equation.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "Dimensional analysis can only determine the relationships between the physical quantities involved in an equation up to a dimensionless constant. It cannot determine the value of this constant; experimental determination or more advanced theoretical methods are required."
+                  },
+                  {
+                    "questionId": "d56284e9-6830-42ae-92dd-1706f3f359d4",
+                    "question": "The dimensions of potential energy and kinetic energy are the same: [ML^2T^-2].",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "Potential energy (e.g., mgh) has dimensions of mass (M) * acceleration due to gravity (LT^-2) * height (L) = ML^2T^-2. Kinetic energy (1/2 mv^2) has dimensions of mass (M) * velocity (LT^-1)^2 = ML^2T^-2. Thus, their dimensions are identical."
+                  },
+                  {
+                    "questionId": "4c258075-22b3-40cb-9b02-aed05e23b2ba",
+                    "question": "If an equation is dimensionally incorrect, it is guaranteed to be physically incorrect.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "Dimensional correctness is a necessary condition for an equation to be physically valid. If the dimensions on both sides of an equation do not match, the equation cannot possibly represent a real physical relationship. A dimensionally *correct* equation, however, is not necessarily physically correct, as it may contain incorrect numerical factors or terms."
+                  },
+                  {
+                    "questionId": "f7ab1788-3ebd-41fb-b682-5660af3e4268",
+                    "question": "The dimension of angular velocity is [T^-1].",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "Angular velocity is defined as the rate of change of angular displacement with respect to time (\u03c9 = d\u03b8/dt). Angular displacement (\u03b8) is dimensionless, so the dimension of angular velocity is simply the reciprocal of time, which is [T^-1]."
+                  }
+                ],
+                "matchthefollowing": [
+                  {
+                    "questionId": "4205f3f1-8c29-4930-be13-94b677208bb5",
+                    "questionText": "Match the following physical quantities with their dimensions:",
+                    "left": [
+                      "Velocity",
+                      "Force",
+                      "Energy",
+                      "Power",
+                      "Pressure"
+                    ],
+                    "right": [
+                      "[MLT\u207b\u00b2]",
+                      "[ML\u00b2T\u207b\u00b2]",
+                      "[ML\u207b\u00b9T\u207b\u00b2]",
+                      "[LT\u207b\u00b9]",
+                      "[ML\u00b2T\u207b\u00b3]"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Velocity",
+                        "correctRight": "[LT\u207b\u00b9]",
+                        "explanation": "Velocity is distance over time, hence [LT\u207b\u00b9]."
+                      },
+                      {
+                        "left": "Force",
+                        "correctRight": "[MLT\u207b\u00b2]",
+                        "explanation": "Force is mass times acceleration, hence [MLT\u207b\u00b2]."
+                      },
+                      {
+                        "left": "Energy",
+                        "correctRight": "[ML\u00b2T\u207b\u00b2]",
+                        "explanation": "Energy has the dimensions of work done, hence [ML\u00b2T\u207b\u00b2]."
+                      },
+                      {
+                        "left": "Power",
+                        "correctRight": "[ML\u00b2T\u207b\u00b3]",
+                        "explanation": "Power is energy per unit time, hence [ML\u00b2T\u207b\u00b3]."
+                      },
+                      {
+                        "left": "Pressure",
+                        "correctRight": "[ML\u207b\u00b9T\u207b\u00b2]",
+                        "explanation": "Pressure is force per unit area, hence [ML\u207b\u00b9T\u207b\u00b2]."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "c29c68b2-9b53-4c61-b2d2-bf54cf1818d9",
+                    "questionText": "Match the following concepts related to dimensional analysis with their descriptions:",
+                    "left": [
+                      "Dimensional Homogeneity",
+                      "Dimensionless Quantity",
+                      "Principle of Dimensional Analysis",
+                      "Uses of Dimensional Analysis"
+                    ],
+                    "right": [
+                      "A quantity with no dimensions (e.g., angle).",
+                      "The dimensions of each term on both sides of an equation must be the same.",
+                      "To check the correctness of an equation and derive relationships between physical quantities.",
+                      "The magnitudes of physical quantities can be added together only if they have the same dimensions."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Dimensional Homogeneity",
+                        "correctRight": "The dimensions of each term on both sides of an equation must be the same.",
+                        "explanation": "Dimensional homogeneity ensures that an equation is physically meaningful."
+                      },
+                      {
+                        "left": "Dimensionless Quantity",
+                        "correctRight": "A quantity with no dimensions (e.g., angle).",
+                        "explanation": "Dimensionless quantities are pure numbers."
+                      },
+                      {
+                        "left": "Principle of Dimensional Analysis",
+                        "correctRight": "The magnitudes of physical quantities can be added together only if they have the same dimensions.",
+                        "explanation": "Only quantities with identical dimensions can be meaningfully added or subtracted."
+                      },
+                      {
+                        "left": "Uses of Dimensional Analysis",
+                        "correctRight": "To check the correctness of an equation and derive relationships between physical quantities.",
+                        "explanation": "Dimensional analysis is a powerful tool for equation verification and formula derivation."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "3781e904-46dc-4c52-9f7f-ea9330ecae17",
+                    "questionText": "Match the following physical quantities with the appropriate combination of fundamental dimensions (M, L, T):",
+                    "left": [
+                      "Area",
+                      "Volume",
+                      "Density",
+                      "Acceleration",
+                      "Momentum"
+                    ],
+                    "right": [
+                      "[MLT\u207b\u00b9]",
+                      "[L\u00b2]",
+                      "[LT\u207b\u00b2]",
+                      "[L\u00b3]",
+                      "[ML\u207b\u00b3]"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Area",
+                        "correctRight": "[L\u00b2]",
+                        "explanation": "Area is length times width, so the dimension is [L\u00b2]."
+                      },
+                      {
+                        "left": "Volume",
+                        "correctRight": "[L\u00b3]",
+                        "explanation": "Volume is length times width times height, so the dimension is [L\u00b3]."
+                      },
+                      {
+                        "left": "Density",
+                        "correctRight": "[ML\u207b\u00b3]",
+                        "explanation": "Density is mass per unit volume, so the dimension is [ML\u207b\u00b3]."
+                      },
+                      {
+                        "left": "Acceleration",
+                        "correctRight": "[LT\u207b\u00b2]",
+                        "explanation": "Acceleration is change in velocity per unit time, so the dimension is [LT\u207b\u00b2]."
+                      },
+                      {
+                        "left": "Momentum",
+                        "correctRight": "[MLT\u207b\u00b9]",
+                        "explanation": "Momentum is mass times velocity, so the dimension is [MLT\u207b\u00b9]."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "20f3b4f0-f47c-4e70-bb73-e68900d15367",
+                    "questionText": "Match the following examples with their dimensional interpretations:",
+                    "left": [
+                      "sin(\u03b8)",
+                      "e\u02e3 (where x is dimensionless)",
+                      "\u03c9t (where \u03c9 is angular velocity and t is time)",
+                      "\u221ag/l (where g is acceleration due to gravity and l is length)"
+                    ],
+                    "right": [
+                      "Dimensionless",
+                      "[T\u207b\u00b9]",
+                      "Dimensionless",
+                      "Dimensionless"
+                    ],
+                    "matches": [
+                      {
+                        "left": "sin(\u03b8)",
+                        "correctRight": "Dimensionless",
+                        "explanation": "Trigonometric functions are dimensionless ratios."
+                      },
+                      {
+                        "left": "e\u02e3 (where x is dimensionless)",
+                        "correctRight": "Dimensionless",
+                        "explanation": "Exponential functions with dimensionless arguments are dimensionless."
+                      },
+                      {
+                        "left": "\u03c9t (where \u03c9 is angular velocity and t is time)",
+                        "correctRight": "Dimensionless",
+                        "explanation": "Angular velocity has dimensions [T\u207b\u00b9], and time has dimension [T], so their product is dimensionless."
+                      },
+                      {
+                        "left": "\u221ag/l (where g is acceleration due to gravity and l is length)",
+                        "correctRight": "[T\u207b\u00b9]",
+                        "explanation": "g/l has dimensions [LT\u207b\u00b2]/[L] = [T\u207b\u00b2], and the square root of that is [T\u207b\u00b9]"
+                      }
+                    ]
+                  }
+                ],
+                "flashcard": [
+                  {
+                    "questionId": "c48d3b6f-39bb-49a4-8d64-601a4551cc2f",
+                    "term": "What are the dimensions of force?",
+                    "definitionOptions": [
+                      "[MLT\u207b\u00b2]",
+                      "[MLT\u207b\u00b9]",
+                      "[ML\u00b2T\u207b\u00b2]",
+                      "[MLT\u00b2]"
+                    ],
+                    "correctDefinition": "[MLT\u207b\u00b2]",
+                    "explanation": "Force is defined as mass times acceleration (F = ma). Mass has the dimension [M], and acceleration has the dimension [LT\u207b\u00b2]. Therefore, the dimensions of force are [MLT\u207b\u00b2]."
+                  },
+                  {
+                    "questionId": "9be5b910-5059-4136-a9a0-9b4cf701f224",
+                    "term": "Which of the following equations is dimensionally inconsistent, where x is distance, t is time, v is velocity, and a is acceleration?",
+                    "definitionOptions": [
+                      "x = vt + (1/2)at\u00b2",
+                      "v = at",
+                      "v\u00b2 = u\u00b2 + 2ax",
+                      "F = mv\u00b2t"
+                    ],
+                    "correctDefinition": "F = mv\u00b2t",
+                    "explanation": "F = mv\u00b2t is dimensionally inconsistent.  Force (F) has dimensions [MLT\u207b\u00b2]. The right-hand side (mv\u00b2t) has dimensions [M][LT\u207b\u00b9]\u00b2[T] = [ML\u00b2T\u207b\u00b9]. Since [MLT\u207b\u00b2] \u2260 [ML\u00b2T\u207b\u00b9], the equation is dimensionally incorrect. The other options are dimensionally consistent based on their respective kinematic definitions."
+                  },
+                  {
+                    "questionId": "9295f44f-8092-42b9-9813-bd53dd3dae98",
+                    "term": "What physical quantity is represented by the dimensions [ML\u00b2T\u207b\u00b3]?",
+                    "definitionOptions": [
+                      "Power",
+                      "Energy",
+                      "Momentum",
+                      "Pressure"
+                    ],
+                    "correctDefinition": "Power",
+                    "explanation": "Power is defined as the rate at which work is done, or energy is transferred. Work (Energy) has dimensions [ML\u00b2T\u207b\u00b2], and dividing by time (T) gives us power with dimensions [ML\u00b2T\u207b\u00b3]."
+                  },
+                  {
+                    "questionId": "cfb258d0-e8e7-4e80-b7c1-0731b8100cee",
+                    "term": "If the velocity (v) of a wave depends on the wavelength (\u03bb), density (\u03c1), and tension (T), and v \u221d \u03bb\u02e3\u03c1\u02b8T\u1dbb, what are the values of x, y, and z using dimensional analysis?",
+                    "definitionOptions": [
+                      "x = 0, y = -1/2, z = 1/2",
+                      "x = 1, y = 1/2, z = -1/2",
+                      "x = 1/2, y = 0, z = -1/2",
+                      "x = 1, y = -1/2, z = 1/2"
+                    ],
+                    "correctDefinition": "x = 0, y = -1/2, z = 1/2",
+                    "explanation": "Velocity [LT\u207b\u00b9], Wavelength [L], Density [ML\u207b\u00b3], Tension [MLT\u207b\u00b2]. Setting up the equation [LT\u207b\u00b9] = [L]\u02e3[ML\u207b\u00b3]\u02b8[MLT\u207b\u00b2]\u1dbb, we get the following system of equations: 1 = x - 3y + z; 0 = y + z; -1 = -2z. Solving this system, we find z = 1/2, y = -1/2, and x = 0."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "chapter_id": 2,
+          "chapter_name": "Atoms and Nuclei",
+          "subtopics": [
+            {
+              "subtopic_id": 1,
+              "subtopic_name": "Alpha-particle scattering experiment; Rutherford's model of atom; Bohr model, energy levels hydrogen spectrum. Composition and size of nucleus, atomic masses",
+              "questions": {
+                "mcq": [
+                  {
+                    "questionId": "5fb0fc04-f2c3-4905-a36d-1a897655814a",
+                    "questionText": "In Rutherford's gold foil experiment, what observation led him to conclude that the atom's positive charge is concentrated in a small nucleus?",
+                    "options": [
+                      "Most alpha particles passed straight through the foil.",
+                      "A few alpha particles were deflected at small angles.",
+                      "Some alpha particles were deflected at large angles.",
+                      "All alpha particles were absorbed by the foil."
+                    ],
+                    "correctAnswer": "Some alpha particles were deflected at large angles.",
+                    "explanation": "The deflection of a small fraction of alpha particles at large angles suggested that they encountered a strong repulsive force, indicating a concentrated positive charge within the atom (the nucleus)."
+                  },
+                  {
+                    "questionId": "c0011500-8477-43d7-99c7-360dfd083f44",
+                    "questionText": "According to the Bohr model, what causes an atom to emit a photon of specific energy?",
+                    "options": [
+                      "An electron transitions from a lower energy level to a higher energy level.",
+                      "An electron transitions from a higher energy level to a lower energy level.",
+                      "The nucleus undergoes radioactive decay.",
+                      "The atom collides with another atom."
+                    ],
+                    "correctAnswer": "An electron transitions from a higher energy level to a lower energy level.",
+                    "explanation": "When an electron transitions from a higher energy level to a lower energy level, it releases the energy difference between the levels in the form of a photon. The photon's energy corresponds to the specific energy difference between the two levels."
+                  },
+                  {
+                    "questionId": "0116d171-5aed-455e-9a69-29712210c769",
+                    "questionText": "Which of the following statements best describes the composition of the nucleus of an atom?",
+                    "options": [
+                      "It consists of electrons and protons.",
+                      "It consists of neutrons and electrons.",
+                      "It consists of protons and neutrons.",
+                      "It consists only of protons."
+                    ],
+                    "correctAnswer": "It consists of protons and neutrons.",
+                    "explanation": "The nucleus of an atom is composed of protons, which have a positive charge, and neutrons, which have no charge. Electrons reside outside the nucleus in electron shells."
+                  },
+                  {
+                    "questionId": "06fa1f80-7d33-4b20-a800-76df59c3a133",
+                    "questionText": "What primarily determines the atomic mass of an atom?",
+                    "options": [
+                      "The number of electrons.",
+                      "The number of protons.",
+                      "The number of neutrons.",
+                      "The number of protons and neutrons."
+                    ],
+                    "correctAnswer": "The number of protons and neutrons.",
+                    "explanation": "The atomic mass is primarily determined by the number of protons and neutrons in the nucleus. The mass of electrons is negligible compared to the mass of protons and neutrons. Therefore, the sum of the number of protons and neutrons (mass number) approximates the atomic mass."
+                  }
+                ],
+                "fillInTheBlanks": [
+                  {
+                    "questionId": "d6516f98-8d3b-48e5-8a4c-fa5d5cf69ff9",
+                    "question": "In Rutherford's alpha-particle scattering experiment, most of the alpha particles passed straight through the gold foil, indicating that the atom is mostly ___.",
+                    "options": ["solid", "positive", "empty space", "negative"],
+                    "correctAnswer": "empty space",
+                    "explanation": "The majority of alpha particles passing through undeflected implies that the atom is mostly empty space, as there were no obstructions in their path."
+                  },
+                  {
+                    "questionId": "2aa0f7e8-c8cb-4598-8506-763e63cdecb0",
+                    "question": "According to Bohr's model, electrons can only exist in specific energy levels, also known as ___.",
+                    "options": [
+                      "orbitals",
+                      "quantum states",
+                      "continuous spectra",
+                      "radioactive zones"
+                    ],
+                    "correctAnswer": "quantum states",
+                    "explanation": "Bohr's model postulates that electrons can only occupy specific, quantized energy levels, often referred to as quantum states or energy shells. These states define the stable orbits around the nucleus."
+                  },
+                  {
+                    "questionId": "2a983caa-d930-4df6-a61a-728b0279cda7",
+                    "question": "The nucleus of an atom is composed of protons and ___, and it contains almost all of the atom's mass.",
+                    "options": [
+                      "electrons",
+                      "neutrinos",
+                      "neutrons",
+                      "photons"
+                    ],
+                    "correctAnswer": "neutrons",
+                    "explanation": "The nucleus is the central core of an atom and is composed of protons (positively charged particles) and neutrons (neutral particles). These two types of particles, collectively called nucleons, account for nearly all of the atom's mass."
+                  },
+                  {
+                    "questionId": "c00abd1f-4821-4ef7-b4da-7f10dcabb5f7",
+                    "question": "The atomic mass of an element is approximately equal to the number of protons plus the number of ___ in its nucleus.",
+                    "options": [
+                      "electrons",
+                      "alpha particles",
+                      "neutrons",
+                      "beta particles"
+                    ],
+                    "correctAnswer": "neutrons",
+                    "explanation": "The atomic mass is largely determined by the number of protons and neutrons in the nucleus. Since the mass of an electron is negligible compared to protons and neutrons, the sum of protons and neutrons provides a good approximation of the atomic mass."
+                  }
+                ],
+                "trueFalse": [
+                  {
+                    "questionId": "cf06a89b-2931-4713-851b-e06a2ace6f77",
+                    "question": "In Rutherford's gold foil experiment, the observation that most alpha particles passed straight through the foil indicated that the atom is mostly empty space.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "Rutherford's experiment showed that most alpha particles went straight through the gold foil, indicating that the atom is mostly empty space. Only a small fraction were deflected at large angles, suggesting a small, dense, positively charged nucleus."
+                  },
+                  {
+                    "questionId": "3ca27d14-38bb-44e3-b8ef-dd80b828829e",
+                    "question": "The Bohr model accurately predicts the spectra of all atoms, regardless of the number of electrons.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "The Bohr model is only successful in accurately predicting the spectra of hydrogen and hydrogen-like species (ions with only one electron). It fails for atoms with multiple electrons due to electron-electron interactions that are not accounted for in the model."
+                  },
+                  {
+                    "questionId": "f892adef-b2c8-48c0-9796-1c3f2818fbe8",
+                    "question": "The size of the nucleus is approximately 10^-10 meters, which is the same order of magnitude as the size of the atom.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "The size of the nucleus is approximately 10^-15 meters (femtometers), while the size of the atom is approximately 10^-10 meters (angstroms). The nucleus is much smaller than the atom."
+                  },
+                  {
+                    "questionId": "d7211968-31a7-45b2-8b19-76acfd930d5e",
+                    "question": "Atomic mass is solely determined by the number of protons in the nucleus.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "Atomic mass is determined by the number of protons and neutrons in the nucleus. Protons and neutrons contribute nearly equally to the mass of the atom. Electrons have a negligible mass compared to protons and neutrons."
+                  }
+                ],
+                "matchthefollowing": [
+                  {
+                    "questionId": "d2b2ac6f-35f2-4f98-813c-384c64766b90",
+                    "questionText": "Match the following concepts related to the alpha-particle scattering experiment:",
+                    "left": [
+                      "Most alpha particles",
+                      "Few alpha particles",
+                      "Very few alpha particles",
+                      "Gold foil"
+                    ],
+                    "right": [
+                      "Deflected at large angles",
+                      "Passed straight through",
+                      "Used as the target material",
+                      "Deflected at small angles"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Most alpha particles",
+                        "correctRight": "Passed straight through",
+                        "explanation": "This indicated that the atom is mostly empty space."
+                      },
+                      {
+                        "left": "Few alpha particles",
+                        "correctRight": "Deflected at small angles",
+                        "explanation": "This suggested the existence of a positive charge within the atom."
+                      },
+                      {
+                        "left": "Very few alpha particles",
+                        "correctRight": "Deflected at large angles",
+                        "explanation": "This implied that the positive charge is concentrated in a very small region."
+                      },
+                      {
+                        "left": "Gold foil",
+                        "correctRight": "Used as the target material",
+                        "explanation": "Gold was chosen because it could be made very thin."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "5c937f4f-b00b-477c-8624-3ab8d4851108",
+                    "questionText": "Match the following terms to their description within Rutherford's model of the atom:",
+                    "left": [
+                      "Nucleus",
+                      "Electrons",
+                      "Atomic Mass",
+                      "Empty Space"
+                    ],
+                    "right": [
+                      "Mostly surrounds the nucleus",
+                      "Contains most of the mass of the atom",
+                      "Revolves around the nucleus",
+                      "Primarily determined by protons and neutrons"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Nucleus",
+                        "correctRight": "Contains most of the mass of the atom",
+                        "explanation": "The nucleus is where the protons and neutrons reside, contributing most to the atom's mass."
+                      },
+                      {
+                        "left": "Electrons",
+                        "correctRight": "Revolves around the nucleus",
+                        "explanation": "Rutherford proposed electrons orbiting the nucleus, similar to planets around the sun."
+                      },
+                      {
+                        "left": "Atomic Mass",
+                        "correctRight": "Primarily determined by protons and neutrons",
+                        "explanation": "The mass number (approximately the atomic mass) is the sum of protons and neutrons."
+                      },
+                      {
+                        "left": "Empty Space",
+                        "correctRight": "Mostly surrounds the nucleus",
+                        "explanation": "Rutherford's experiment showed the atom is mostly empty space."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "3862744c-8835-4399-bfa9-2a7f2b4a7010",
+                    "questionText": "Match the following terms related to the Bohr model and hydrogen spectrum:",
+                    "left": [
+                      "Energy Levels",
+                      "Ground State",
+                      "Excited State",
+                      "Hydrogen Spectrum",
+                      "Photon Emission"
+                    ],
+                    "right": [
+                      "The lowest energy level (n=1)",
+                      "Discrete energy values that electrons can occupy",
+                      "When an electron moves to a lower energy level",
+                      "When an electron is in a higher energy level",
+                      "A series of discrete lines due to specific energy transitions"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Energy Levels",
+                        "correctRight": "Discrete energy values that electrons can occupy",
+                        "explanation": "Bohr postulated that electrons can only exist in specific energy levels."
+                      },
+                      {
+                        "left": "Ground State",
+                        "correctRight": "The lowest energy level (n=1)",
+                        "explanation": "The ground state is the most stable, lowest energy configuration of an electron."
+                      },
+                      {
+                        "left": "Excited State",
+                        "correctRight": "When an electron is in a higher energy level",
+                        "explanation": "An electron is in an excited state after absorbing energy and moving to a higher energy level."
+                      },
+                      {
+                        "left": "Hydrogen Spectrum",
+                        "correctRight": "A series of discrete lines due to specific energy transitions",
+                        "explanation": "The specific wavelengths of light emitted by hydrogen correspond to transitions between energy levels."
+                      },
+                      {
+                        "left": "Photon Emission",
+                        "correctRight": "When an electron moves to a lower energy level",
+                        "explanation": "When an electron drops to a lower energy level, it emits a photon of energy equal to the energy difference."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "44e83775-e2f4-4158-b14b-40796a1a0e56",
+                    "questionText": "Match the following descriptions related to the nucleus and atomic masses:",
+                    "left": [
+                      "Protons",
+                      "Neutrons",
+                      "Nucleons",
+                      "Atomic Number",
+                      "Mass Number"
+                    ],
+                    "right": [
+                      "Particles found in the nucleus with no charge",
+                      "The number of protons in the nucleus",
+                      "Particles found in the nucleus with a positive charge",
+                      "The total number of protons and neutrons in a nucleus",
+                      "Determines the identity of an element"
+                    ],
+                    "matches": [
+                      {
+                        "left": "Protons",
+                        "correctRight": "Particles found in the nucleus with a positive charge",
+                        "explanation": "Protons are positively charged particles located in the nucleus."
+                      },
+                      {
+                        "left": "Neutrons",
+                        "correctRight": "Particles found in the nucleus with no charge",
+                        "explanation": "Neutrons are neutral particles located in the nucleus."
+                      },
+                      {
+                        "left": "Nucleons",
+                        "correctRight": "The total number of protons and neutrons in a nucleus",
+                        "explanation": "Nucleons is the collective term for protons and neutrons."
+                      },
+                      {
+                        "left": "Atomic Number",
+                        "correctRight": "The number of protons in the nucleus",
+                        "explanation": "The atomic number is the number of protons, which uniquely identifies an element."
+                      },
+                      {
+                        "left": "Mass Number",
+                        "correctRight": "Determines the identity of an element",
+                        "explanation": "The atomic number is the number of protons, which uniquely identifies an element."
+                      }
+                    ]
+                  }
+                ],
+                "flashcard": [
+                  {
+                    "questionId": "f5a7472d-5865-403c-8d88-069745bce7b2",
+                    "term": "In Rutherford's alpha-particle scattering experiment, what observation led to the conclusion that the atom is mostly empty space?",
+                    "definitionOptions": [
+                      "Most alpha particles were deflected at large angles.",
+                      "Most alpha particles passed straight through the gold foil.",
+                      "Some alpha particles were absorbed by the gold foil.",
+                      "Alpha particles were only scattered in the forward direction."
+                    ],
+                    "correctDefinition": "Most alpha particles passed straight through the gold foil.",
+                    "explanation": "The fact that most alpha particles passed straight through the gold foil without significant deflection indicated that the atom is mostly empty space. If the atom were a solid mass, most of the alpha particles would have been deflected."
+                  },
+                  {
+                    "questionId": "c85a28f6-7a6b-49ba-b4fd-f5aff6ad88a0",
+                    "term": "According to Bohr's model, what determines the specific wavelengths of light emitted by a hydrogen atom?",
+                    "definitionOptions": [
+                      "The temperature of the gas.",
+                      "The kinetic energy of the electrons.",
+                      "The energy differences between allowed electron orbits.",
+                      "The density of the gas."
+                    ],
+                    "correctDefinition": "The energy differences between allowed electron orbits.",
+                    "explanation": "Bohr's model postulates that electrons can only occupy specific energy levels (orbits). When an electron transitions from a higher energy level to a lower one, it emits a photon with energy equal to the energy difference between the levels. This energy determines the wavelength of the emitted light, according to E=hc/\u03bb."
+                  },
+                  {
+                    "questionId": "725cdd63-910e-4041-a1ea-719369652e74",
+                    "term": "Which of the following best describes the composition of an atomic nucleus?",
+                    "definitionOptions": [
+                      "Electrons and neutrons.",
+                      "Protons and electrons.",
+                      "Protons and neutrons.",
+                      "Only protons."
+                    ],
+                    "correctDefinition": "Protons and neutrons.",
+                    "explanation": "The atomic nucleus is composed of protons and neutrons. Protons carry a positive charge, neutrons carry no charge, and electrons orbit the nucleus. The number of protons determines the element's atomic number."
+                  },
+                  {
+                    "questionId": "3a3efab8-9ef0-4462-8e93-40ad29fdc399",
+                    "term": "What is the approximate size of an atomic nucleus?",
+                    "definitionOptions": [
+                      "10^-15 meters",
+                      "10^-10 meters",
+                      "10^-6 meters",
+                      "10^-3 meters"
+                    ],
+                    "correctDefinition": "10^-15 meters",
+                    "explanation": "The nucleus is incredibly small compared to the overall size of the atom. Its diameter is on the order of 10^-15 meters (femtometers), while the diameter of the atom is on the order of 10^-10 meters (angstroms). This difference in scale highlights the vast amount of empty space within an atom."
+                  }
+                ]
+              }
+            },
+            {
+              "subtopic_id": 2,
+              "subtopic_name": "Mass-energy relation, mass defect; binding energy per nucleon and its variation with mass number, nuclear fission, and fusion.",
+              "questions": {
+                "mcq": [
+                  {
+                    "questionId": "0add6ed8-a479-444f-8a08-f994f92fdef9",
+                    "questionText": "What does the mass defect in a nucleus primarily represent?",
+                    "options": [
+                      "The mass of the electrons orbiting the nucleus.",
+                      "The difference between the mass of the individual nucleons and the mass of the nucleus.",
+                      "The mass of the neutrons in the nucleus.",
+                      "The mass of the protons in the nucleus."
+                    ],
+                    "correctAnswer": "The difference between the mass of the individual nucleons and the mass of the nucleus.",
+                    "explanation": "The mass defect is the difference between the mass of the nucleus and the sum of the masses of its constituent nucleons (protons and neutrons) when they are free. This difference in mass is converted into binding energy, holding the nucleus together."
+                  },
+                  {
+                    "questionId": "d07f3676-465d-4e99-b3c8-803c9315fa3f",
+                    "questionText": "Which of the following statements best describes the trend of binding energy per nucleon as the mass number (A) increases?",
+                    "options": [
+                      "Binding energy per nucleon continuously increases with increasing A.",
+                      "Binding energy per nucleon continuously decreases with increasing A.",
+                      "Binding energy per nucleon initially increases, reaches a maximum around A=56 (Iron), and then decreases.",
+                      "Binding energy per nucleon remains constant regardless of A."
+                    ],
+                    "correctAnswer": "Binding energy per nucleon initially increases, reaches a maximum around A=56 (Iron), and then decreases.",
+                    "explanation": "The binding energy per nucleon increases rapidly for light nuclei, reaching a peak around iron-56 (\u2075\u2076Fe), which is the most stable nucleus. Beyond iron, the binding energy per nucleon gradually decreases due to the increasing repulsive electrostatic forces between the protons in heavier nuclei."
+                  },
+                  {
+                    "questionId": "3a7e93dd-7c79-477b-966a-ab18329d1014",
+                    "questionText": "What is the primary process behind energy production in nuclear fission?",
+                    "options": [
+                      "Combining light nuclei to form a heavier nucleus.",
+                      "Splitting a heavy nucleus into lighter nuclei.",
+                      "Converting mass directly into energy without any nuclear reaction.",
+                      "Transferring energy from electrons to the nucleus."
+                    ],
+                    "correctAnswer": "Splitting a heavy nucleus into lighter nuclei.",
+                    "explanation": "Nuclear fission involves the splitting of a heavy nucleus (like Uranium-235 or Plutonium-239) into two or more lighter nuclei. This process releases a significant amount of energy because the resulting nuclei have a higher binding energy per nucleon than the original heavy nucleus, resulting in a decrease in mass that is converted into energy according to E=mc\u00b2."
+                  },
+                  {
+                    "questionId": "ff614c48-8259-4cf8-bcb5-1a478c8aee65",
+                    "questionText": "Which of the following conditions is generally required for nuclear fusion to occur?",
+                    "options": [
+                      "Low temperature and low pressure.",
+                      "High temperature and low pressure.",
+                      "Low temperature and high pressure.",
+                      "High temperature and high pressure."
+                    ],
+                    "correctAnswer": "High temperature and high pressure.",
+                    "explanation": "Nuclear fusion requires extremely high temperatures (millions of degrees Celsius) to overcome the electrostatic repulsion between positively charged nuclei and bring them close enough for the strong nuclear force to bind them together. High pressure is also beneficial to increase the probability of collisions and maintain plasma density."
+                  }
+                ],
+                "fillInTheBlanks": [
+                  {
+                    "questionId": "b920fa98-dec5-436b-9ab3-4ba113c43655",
+                    "question": "The mass defect is defined as the difference between the sum of the masses of the individual nucleons and the actual mass of the ___.",
+                    "options": ["proton", "electron", "neutron", "nucleus"],
+                    "correctAnswer": "nucleus",
+                    "explanation": "The mass defect arises because when nucleons combine to form a nucleus, energy is released, which, according to the mass-energy equivalence (E=mc\u00b2), results in a decrease in mass. This difference between the expected mass (sum of nucleon masses) and the actual mass of the formed nucleus is the mass defect."
+                  },
+                  {
+                    "questionId": "3c77c6ee-8a50-4820-9ff6-5f03dd2003a9",
+                    "question": "In nuclear fission, a heavy nucleus splits into two or more lighter nuclei, typically releasing a significant amount of ___.",
+                    "options": ["electrons", "protons", "energy", "neutrinos"],
+                    "correctAnswer": "energy",
+                    "explanation": "Nuclear fission releases energy because the binding energy per nucleon of the fission fragments is generally higher than the binding energy per nucleon of the original heavy nucleus. This difference in binding energy is converted into kinetic energy of the fission fragments and other particles, resulting in a large release of energy."
+                  },
+                  {
+                    "questionId": "305bd1a6-9f06-4c71-b537-d9a045d991c3",
+                    "question": "The binding energy per nucleon is maximum for nuclei around mass number A \u2248 ___.",
+                    "options": ["62", "235", "4", "1"],
+                    "correctAnswer": "62",
+                    "explanation": "The binding energy per nucleon peaks around mass number 62 (specifically for Nickel-62). This indicates that nuclei in this region are the most stable.  Heavier nuclei can release energy by fissioning into lighter nuclei closer to this peak, and lighter nuclei can release energy by fusing into heavier nuclei closer to this peak."
+                  },
+                  {
+                    "questionId": "3d5ac89d-cfff-4363-b4b3-e21fe5923e3d",
+                    "question": "Nuclear ___ involves the combining of two light nuclei into a heavier nucleus, releasing a large amount of energy.",
+                    "options": ["fission", "fusion", "decay", "isomerism"],
+                    "correctAnswer": "fusion",
+                    "explanation": "Nuclear fusion involves the merging of light nuclei (e.g., hydrogen isotopes) to form a heavier nucleus (e.g., helium). This process releases a tremendous amount of energy, as the binding energy per nucleon of the resulting nucleus is greater than that of the original nuclei. This is the energy source of the sun and other stars."
+                  }
+                ],
+                "trueFalse": [
+                  {
+                    "questionId": "26d715b7-59c7-4826-93b8-b99eeb3290bc",
+                    "question": "The mass of a nucleus is always equal to the sum of the masses of its constituent protons and neutrons.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "Due to the mass defect and the mass-energy equivalence (E=mc\u00b2), the mass of a nucleus is always *less* than the sum of the masses of its individual protons and neutrons. The difference in mass is converted into the binding energy holding the nucleus together."
+                  },
+                  {
+                    "questionId": "a7b90237-a12d-4dd7-b966-47db8729a4ab",
+                    "question": "In nuclear fission, heavier nuclei split into lighter nuclei, releasing energy because the binding energy per nucleon of the products is generally higher than that of the original nucleus.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "Nuclear fission involves the splitting of a heavy nucleus into two or more lighter nuclei. This process releases energy because the resulting lighter nuclei have a higher binding energy per nucleon compared to the original heavy nucleus, meaning they are more stable. The difference in binding energy is released as kinetic energy of the fission fragments and other particles."
+                  },
+                  {
+                    "questionId": "235ede89-f9db-4062-9051-706637c5ee78",
+                    "question": "The binding energy per nucleon generally increases with mass number, reaching a maximum at iron (Fe), and then decreases slowly for heavier nuclei.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "The binding energy per nucleon represents the average energy required to remove a nucleon (proton or neutron) from the nucleus. It increases sharply for light nuclei, reaches a peak around iron (Fe-56), which has the highest binding energy per nucleon, and then gradually decreases for heavier nuclei. This trend explains why fusion of lighter nuclei and fission of heavier nuclei can both release energy."
+                  },
+                  {
+                    "questionId": "05e4b281-a3de-451b-bc34-678e057f410d",
+                    "question": "Nuclear fusion, the process that powers the sun, involves the combining of light nuclei and always requires less energy input than it releases as output.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "While nuclear fusion does release a tremendous amount of energy overall, achieving sustained fusion reactions requires overcoming significant energy barriers, primarily due to the electrostatic repulsion between positively charged nuclei. While a net positive energy release is the goal, and is achieved in stars and fusion reactors, there is always energy input required to initiate and sustain the reaction.  The energy released *exceeds* the energy required to *sustain* the reaction after it starts, but the initial input cannot be ignored. To state that it 'always' requires less energy input is not entirely accurate."
+                  }
+                ],
+                "matchthefollowing": [
+                  {
+                    "questionId": "9cb64725-c10b-428a-9f51-b79322d70a06",
+                    "questionText": "Match the following terms related to mass-energy equivalence and mass defect:",
+                    "left": [
+                      "Mass Defect",
+                      "Binding Energy",
+                      "Mass-Energy Equivalence",
+                      "Unified Atomic Mass Unit (u)"
+                    ],
+                    "right": [
+                      "E = mc\u00b2",
+                      "1.66054 \u00d7 10\u207b\u00b2\u2077 kg",
+                      "Energy equivalent to mass deficit.",
+                      "Difference between the mass of a nucleus and the sum of the masses of its constituent nucleons."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Mass Defect",
+                        "correctRight": "Difference between the mass of a nucleus and the sum of the masses of its constituent nucleons.",
+                        "explanation": "Mass defect represents the 'missing' mass that has been converted into binding energy."
+                      },
+                      {
+                        "left": "Binding Energy",
+                        "correctRight": "Energy equivalent to mass deficit.",
+                        "explanation": "Binding energy is the energy required to separate a nucleus into its constituent nucleons, and is directly related to the mass defect via E=mc\u00b2."
+                      },
+                      {
+                        "left": "Mass-Energy Equivalence",
+                        "correctRight": "E = mc\u00b2",
+                        "explanation": "E=mc\u00b2 describes the fundamental relationship between mass and energy, where E is energy, m is mass, and c is the speed of light."
+                      },
+                      {
+                        "left": "Unified Atomic Mass Unit (u)",
+                        "correctRight": "1.66054 \u00d7 10\u207b\u00b2\u2077 kg",
+                        "explanation": "The unified atomic mass unit is a standard unit for expressing atomic and molecular masses."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "da37211e-d0ea-4966-92af-22bc23184e96",
+                    "questionText": "Match the following descriptions to the corresponding nuclear processes:",
+                    "left": [
+                      "Nuclear Fission",
+                      "Nuclear Fusion",
+                      "Binding Energy per Nucleon (High)",
+                      "Binding Energy per Nucleon (Low)"
+                    ],
+                    "right": [
+                      "Light nuclei combining to form a heavier nucleus.",
+                      "Iron (Fe-56)",
+                      "Heavy nucleus splitting into lighter nuclei.",
+                      "Very light or very heavy nuclei."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Nuclear Fission",
+                        "correctRight": "Heavy nucleus splitting into lighter nuclei.",
+                        "explanation": "Nuclear fission is the process where a heavy nucleus, like Uranium, splits into two smaller nuclei, releasing energy."
+                      },
+                      {
+                        "left": "Nuclear Fusion",
+                        "correctRight": "Light nuclei combining to form a heavier nucleus.",
+                        "explanation": "Nuclear fusion is the process where light nuclei, like Hydrogen isotopes, combine to form a heavier nucleus, releasing energy."
+                      },
+                      {
+                        "left": "Binding Energy per Nucleon (High)",
+                        "correctRight": "Iron (Fe-56)",
+                        "explanation": "Iron-56 has the highest binding energy per nucleon, making it the most stable nucleus."
+                      },
+                      {
+                        "left": "Binding Energy per Nucleon (Low)",
+                        "correctRight": "Very light or very heavy nuclei.",
+                        "explanation": "Nuclei at the extremes of the mass number spectrum (very light or very heavy) have lower binding energy per nucleon and are therefore less stable."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "7ff7fde8-f853-4b5a-9ded-e95e85490872",
+                    "questionText": "Match the following concepts to their implications regarding nuclear reactions:",
+                    "left": [
+                      "Positive Q-value",
+                      "Negative Q-value",
+                      "Binding Energy Curve (Increasing A)",
+                      "Binding Energy Curve (Decreasing A)"
+                    ],
+                    "right": [
+                      "Fission of very heavy nuclei releases energy.",
+                      "Reaction is exothermic (releases energy).",
+                      "Reaction is endothermic (requires energy).",
+                      "Fusion of light nuclei releases energy."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Positive Q-value",
+                        "correctRight": "Reaction is exothermic (releases energy).",
+                        "explanation": "A positive Q-value indicates that the reaction releases energy, meaning the total kinetic energy of the products is greater than the total kinetic energy of the reactants."
+                      },
+                      {
+                        "left": "Negative Q-value",
+                        "correctRight": "Reaction is endothermic (requires energy).",
+                        "explanation": "A negative Q-value indicates that the reaction requires energy input to proceed, meaning the total kinetic energy of the products is less than the total kinetic energy of the reactants."
+                      },
+                      {
+                        "left": "Binding Energy Curve (Increasing A)",
+                        "correctRight": "Fusion of light nuclei releases energy.",
+                        "explanation": "As A increases from very small values to around Iron-56, the binding energy per nucleon also increases. Therefore fusion of light nuclei releases energy."
+                      },
+                      {
+                        "left": "Binding Energy Curve (Decreasing A)",
+                        "correctRight": "Fission of very heavy nuclei releases energy.",
+                        "explanation": "As A increases beyond Iron-56, the binding energy per nucleon decreases. Therefore fission of very heavy nuclei releases energy."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "f4b8fa19-a714-4abf-b0ce-0771f78eec05",
+                    "questionText": "Match the processes and quantities with relevant characteristics:",
+                    "left": [
+                      "Fusion in Stars",
+                      "Fission Reactors",
+                      "Critical Mass",
+                      "Controlled Chain Reaction"
+                    ],
+                    "right": [
+                      "Requires high temperatures and pressures.",
+                      "Minimum amount of fissile material needed for a self-sustaining reaction.",
+                      "Used to generate electricity.",
+                      "Nuclear reactions are moderated and controlled using control rods."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Fusion in Stars",
+                        "correctRight": "Requires high temperatures and pressures.",
+                        "explanation": "Fusion requires extremely high temperatures and pressures to overcome the electrostatic repulsion between positively charged nuclei."
+                      },
+                      {
+                        "left": "Fission Reactors",
+                        "correctRight": "Used to generate electricity.",
+                        "explanation": "Nuclear reactors use controlled nuclear fission to generate heat, which is then used to produce steam and drive turbines for electricity generation."
+                      },
+                      {
+                        "left": "Critical Mass",
+                        "correctRight": "Minimum amount of fissile material needed for a self-sustaining reaction.",
+                        "explanation": "Critical mass is the amount of fissile material required for a self-sustaining chain reaction to occur."
+                      },
+                      {
+                        "left": "Controlled Chain Reaction",
+                        "correctRight": "Nuclear reactions are moderated and controlled using control rods.",
+                        "explanation": "In a controlled chain reaction, the rate of fission is regulated by using control rods that absorb neutrons."
+                      }
+                    ]
+                  }
+                ],
+                "flashcard": [
+                  {
+                    "questionId": "8c182b95-f430-49ce-b6e5-7d68f99e3f02",
+                    "term": "What fundamental principle is expressed by the mass-energy relation, E=mc\u00b2?",
+                    "definitionOptions": [
+                      "Conservation of Momentum",
+                      "Conservation of Energy",
+                      "Equivalence of Mass and Energy",
+                      "Conservation of Charge"
+                    ],
+                    "correctDefinition": "Equivalence of Mass and Energy",
+                    "explanation": "The mass-energy relation, E=mc\u00b2, expresses the principle that mass and energy are equivalent and interconvertible. A small amount of mass can be converted into a large amount of energy, and vice-versa, with 'c' being the speed of light in a vacuum, representing the proportionality constant."
+                  },
+                  {
+                    "questionId": "1ff8cd3b-89c6-44fc-85cb-d4db45e86371",
+                    "term": "What is the mass defect in the context of nuclear physics?",
+                    "definitionOptions": [
+                      "The difference between the atomic mass and the mass number.",
+                      "The difference between the expected mass of a nucleus based on its constituent nucleons and its actual measured mass.",
+                      "The loss of mass due to radioactive decay.",
+                      "The increase in mass due to nuclear reactions."
+                    ],
+                    "correctDefinition": "The difference between the expected mass of a nucleus based on its constituent nucleons and its actual measured mass.",
+                    "explanation": "The mass defect is the difference between the calculated mass of a nucleus (sum of the masses of individual protons and neutrons) and the actual measured mass of the nucleus. This 'missing' mass is converted into the binding energy that holds the nucleus together."
+                  },
+                  {
+                    "questionId": "24174cfe-e1fd-4794-89de-e05284a3f46d",
+                    "term": "How does the binding energy per nucleon generally vary with mass number (A) across the periodic table?",
+                    "definitionOptions": [
+                      "It continuously increases with increasing mass number.",
+                      "It continuously decreases with increasing mass number.",
+                      "It increases up to a maximum around A=56 (Iron) and then slowly decreases.",
+                      "It remains constant for all mass numbers."
+                    ],
+                    "correctDefinition": "It increases up to a maximum around A=56 (Iron) and then slowly decreases.",
+                    "explanation": "The binding energy per nucleon initially increases sharply with mass number, reaching a peak around Iron (Fe-56). Beyond iron, the binding energy per nucleon slowly decreases. This trend explains why both nuclear fission of heavy nuclei and nuclear fusion of light nuclei are exothermic (energy-releasing) processes."
+                  },
+                  {
+                    "questionId": "1a89c489-582f-4146-9df1-2b619b88ab8b",
+                    "term": "Which process involves the splitting of a heavy nucleus into two or more lighter nuclei?",
+                    "definitionOptions": [
+                      "Nuclear Fusion",
+                      "Alpha Decay",
+                      "Beta Decay",
+                      "Nuclear Fission"
+                    ],
+                    "correctDefinition": "Nuclear Fission",
+                    "explanation": "Nuclear fission is a nuclear reaction in which the nucleus of an atom splits into smaller parts (lighter nuclei), often producing free neutrons and photons (in the form of gamma rays), and releasing a very large amount of energy. This process is often initiated by a neutron striking a heavy nucleus like Uranium-235."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "chapter_id": 3,
+          "chapter_name": "Electronic Devices",
+          "subtopics": [
+            {
+              "subtopic_id": 1,
+              "subtopic_name": "Semiconductors; semiconductor diode: I-V characteristics in forward and reverse bias; diode as a rectifier; I-V characteristics of LED. the photodiode, solar cell, and Zener diode; Zener diode as a voltage regulator",
+              "questions": {
+                "mcq": [
+                  {
+                    "questionId": "60864989-ea96-423d-82a5-1eda91fe9ee1",
+                    "questionText": "In a forward-biased semiconductor diode, what happens to the depletion region?",
+                    "options": [
+                      "It widens and increases the barrier potential.",
+                      "It widens and decreases the barrier potential.",
+                      "It narrows and increases the barrier potential.",
+                      "It narrows and decreases the barrier potential."
+                    ],
+                    "correctAnswer": "It narrows and decreases the barrier potential.",
+                    "explanation": "When a diode is forward-biased, the applied voltage opposes the built-in potential of the depletion region. This causes the depletion region to narrow, reducing its resistance and allowing current to flow more easily."
+                  },
+                  {
+                    "questionId": "ef823b27-4457-44ca-8e82-43e61cffaba6",
+                    "questionText": "Which of the following describes the primary function of a Zener diode?",
+                    "options": [
+                      "To amplify a small signal.",
+                      "To rectify AC voltage to DC voltage.",
+                      "To maintain a constant voltage across a load despite variations in input voltage or load current.",
+                      "To emit light when forward biased."
+                    ],
+                    "correctAnswer": "To maintain a constant voltage across a load despite variations in input voltage or load current.",
+                    "explanation": "Zener diodes are specifically designed to operate in the reverse breakdown region. In this region, the voltage across the diode remains relatively constant, making them ideal for voltage regulation applications."
+                  },
+                  {
+                    "questionId": "54792bc8-50a8-40a6-b0f4-2c2ee92df53a",
+                    "questionText": "What is the main difference between a photodiode and an LED?",
+                    "options": [
+                      "A photodiode emits light, while an LED detects light.",
+                      "A photodiode detects light, while an LED emits light.",
+                      "A photodiode is forward biased, while an LED is reverse biased.",
+                      "A photodiode uses germanium, while an LED uses silicon."
+                    ],
+                    "correctAnswer": "A photodiode detects light, while an LED emits light.",
+                    "explanation": "Photodiodes are designed to convert light into electrical current, while LEDs are designed to convert electrical current into light. Their fundamental functions are opposite."
+                  },
+                  {
+                    "questionId": "818e1cd6-fe3e-48ab-b84b-eba59a0b2966",
+                    "questionText": "In a half-wave rectifier circuit using a diode, what portion of the AC input signal is allowed to pass through to the output?",
+                    "options": [
+                      "The entire AC signal.",
+                      "Only the positive half-cycle.",
+                      "Only the negative half-cycle.",
+                      "Both positive and negative half-cycles are inverted."
+                    ],
+                    "correctAnswer": "Only the positive half-cycle.",
+                    "explanation": "A half-wave rectifier uses a diode to allow only one half of the AC input cycle (typically the positive half) to pass through to the output. The other half-cycle is blocked due to the diode's reverse bias condition."
+                  }
+                ],
+                "fillInTheBlanks": [
+                  {
+                    "questionId": "24acef14-eefb-4bf8-9128-55bf3767823f",
+                    "question": "In a forward-biased semiconductor diode, the width of the depletion region ___ as the applied voltage increases.",
+                    "options": [
+                      "decreases",
+                      "increases",
+                      "remains constant",
+                      "oscillates"
+                    ],
+                    "correctAnswer": "decreases",
+                    "explanation": "In forward bias, the applied voltage opposes the built-in potential barrier. This reduces the electric field in the depletion region, thereby decreasing its width. A smaller depletion region allows for easier flow of majority carriers across the junction, resulting in a significant forward current."
+                  },
+                  {
+                    "questionId": "84328e38-79bc-4acf-9d24-3b91633792da",
+                    "question": "A diode used in a rectifier circuit converts ___ current into ___ current.",
+                    "options": [
+                      "AC, pulsating DC",
+                      "DC, AC",
+                      "DC, pure DC",
+                      "pulsating DC, AC"
+                    ],
+                    "correctAnswer": "AC, pulsating DC",
+                    "explanation": "Rectifiers are used to convert alternating current (AC) into direct current (DC). However, the output DC from a simple rectifier is typically not smooth but rather pulsating DC. Further filtering is usually needed to obtain a smooth DC output."
+                  },
+                  {
+                    "questionId": "22d68960-800b-4308-932f-113e68b18a2e",
+                    "question": "The Zener diode operates in the ___ breakdown region to maintain a constant voltage.",
+                    "options": ["forward", "reverse", "saturation", "cutoff"],
+                    "correctAnswer": "reverse",
+                    "explanation": "Zener diodes are specifically designed to operate in the reverse breakdown region. When the reverse voltage exceeds the Zener voltage, the diode breaks down and maintains a nearly constant voltage across its terminals, even with variations in current. This property is used in voltage regulator circuits."
+                  },
+                  {
+                    "questionId": "fa44b7ba-3b88-42c7-b26b-50df69f302b8",
+                    "question": "A photodiode is a semiconductor diode whose reverse current increases when ___ is shone on it.",
+                    "options": ["heat", "pressure", "light", "magnetic field"],
+                    "correctAnswer": "light",
+                    "explanation": "A photodiode is designed to be sensitive to light. When light photons strike the depletion region of the photodiode, they generate electron-hole pairs. These carriers are then swept across the junction by the electric field, resulting in an increase in the reverse current. The magnitude of the reverse current is proportional to the intensity of the incident light."
+                  }
+                ],
+                "trueFalse": [
+                  {
+                    "questionId": "b2b54857-f5b0-4b44-9f6f-43eb3483e190",
+                    "question": "In the forward bias region, a semiconductor diode exhibits a very high resistance, effectively blocking current flow until the voltage exceeds the threshold voltage.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "In forward bias, a semiconductor diode exhibits *low* resistance, allowing significant current flow once the voltage exceeds the threshold (or cut-in) voltage. The statement describes reverse bias conditions more accurately."
+                  },
+                  {
+                    "questionId": "465aa9c5-532c-4adf-bf0e-72849a232883",
+                    "question": "A Zener diode, when used as a voltage regulator in its breakdown region, maintains a nearly constant voltage across its terminals despite variations in the input voltage or load current.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "The Zener diode's defining characteristic is its ability to maintain a relatively constant voltage across it, even with changing current, when operated in its reverse breakdown region. This makes it ideal for voltage regulation."
+                  },
+                  {
+                    "questionId": "167622c2-fde3-411b-9302-f114deee3632",
+                    "question": "A photodiode generates voltage when illuminated, operating on the same principle as a solar cell, but typically is optimized for faster response times rather than high power output.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "While both photodiodes and solar cells utilize light to generate current/voltage, a photodiode primarily generates *current* (not voltage) when illuminated. Solar cells are specifically designed to generate significant voltage and power. Photodiodes are optimized for sensitivity and speed in detecting light."
+                  },
+                  {
+                    "questionId": "7fc94e60-0f14-4e43-9356-49d4cc1ce758",
+                    "question": "A semiconductor diode can function as a rectifier because it allows current to flow easily in one direction (forward bias) and blocks it in the opposite direction (reverse bias).",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "The ability of a diode to conduct current in one direction and block it in the other is the fundamental principle behind its use as a rectifier, converting AC voltage to DC voltage."
+                  }
+                ],
+                "matchthefollowing": [
+                  {
+                    "questionId": "41def255-55e9-4471-bb31-e486a8fbca89",
+                    "questionText": "Match the semiconductor device with its primary function/characteristic:",
+                    "left": [
+                      "Semiconductor Diode (Forward Bias)",
+                      "Semiconductor Diode (Reverse Bias)",
+                      "LED",
+                      "Zener Diode",
+                      "Photodiode"
+                    ],
+                    "right": [
+                      "Emits light when forward biased.",
+                      "Allows current flow with minimal resistance when voltage exceeds its threshold.",
+                      "Allows minimal current flow unless breakdown voltage is reached.",
+                      "Maintains a nearly constant voltage under varying current.",
+                      "Generates current when exposed to light."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Semiconductor Diode (Forward Bias)",
+                        "correctRight": "Allows current flow with minimal resistance when voltage exceeds its threshold.",
+                        "explanation": "In forward bias, the diode offers low resistance to current flow above the threshold voltage."
+                      },
+                      {
+                        "left": "Semiconductor Diode (Reverse Bias)",
+                        "correctRight": "Allows minimal current flow unless breakdown voltage is reached.",
+                        "explanation": "In reverse bias, a small leakage current flows until the breakdown voltage is reached."
+                      },
+                      {
+                        "left": "LED",
+                        "correctRight": "Emits light when forward biased.",
+                        "explanation": "An LED emits photons (light) when electrons and holes recombine in the forward-biased junction."
+                      },
+                      {
+                        "left": "Zener Diode",
+                        "correctRight": "Maintains a nearly constant voltage under varying current.",
+                        "explanation": "The Zener diode is designed to operate in the breakdown region and maintain a relatively stable voltage."
+                      },
+                      {
+                        "left": "Photodiode",
+                        "correctRight": "Generates current when exposed to light.",
+                        "explanation": "A photodiode generates current when photons strike the depletion region, creating electron-hole pairs."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "d34b4bfa-36ea-44f7-ae19-f1e53e000d98",
+                    "questionText": "Match the I-V characteristic description to the corresponding semiconductor device:",
+                    "left": [
+                      "Forward Bias (Diode)",
+                      "Reverse Bias (Diode)",
+                      "Zener Region",
+                      "Solar Cell (Illuminated)"
+                    ],
+                    "right": [
+                      "Current increases exponentially with voltage.",
+                      "Current remains very low until breakdown voltage.",
+                      "Voltage remains nearly constant with increasing reverse current.",
+                      "Voltage and current can be both positive (power output) or either may be negative depending on external connections, exhibiting short circuit current (Isc) and open circuit voltage (Voc)."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Forward Bias (Diode)",
+                        "correctRight": "Current increases exponentially with voltage.",
+                        "explanation": "In forward bias, the current through a diode increases exponentially after overcoming the threshold voltage."
+                      },
+                      {
+                        "left": "Reverse Bias (Diode)",
+                        "correctRight": "Current remains very low until breakdown voltage.",
+                        "explanation": "Ideally, the reverse current is minimal until the breakdown voltage is reached."
+                      },
+                      {
+                        "left": "Zener Region",
+                        "correctRight": "Voltage remains nearly constant with increasing reverse current.",
+                        "explanation": "In the Zener region, the voltage remains relatively constant despite significant changes in reverse current."
+                      },
+                      {
+                        "left": "Solar Cell (Illuminated)",
+                        "correctRight": "Voltage and current can be both positive (power output) or either may be negative depending on external connections, exhibiting short circuit current (Isc) and open circuit voltage (Voc).",
+                        "explanation": "Solar cell's I-V curve characteristics of providing output when illuminated."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "1cd97476-902c-4dd2-844f-d712811a3d92",
+                    "questionText": "Match the term to its definition related to diode applications:",
+                    "left": [
+                      "Rectifier",
+                      "Voltage Regulator",
+                      "Forward Voltage",
+                      "Reverse Breakdown Voltage"
+                    ],
+                    "right": [
+                      "The voltage at which a diode begins to conduct significantly in forward bias.",
+                      "The voltage at which a diode experiences a sharp increase in reverse current.",
+                      "A circuit that converts AC voltage to DC voltage using diodes.",
+                      "A circuit that maintains a stable output voltage despite variations in input voltage or load current, often using a Zener diode."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Rectifier",
+                        "correctRight": "A circuit that converts AC voltage to DC voltage using diodes.",
+                        "explanation": "A rectifier uses diodes to allow current flow in only one direction, thus converting AC to DC."
+                      },
+                      {
+                        "left": "Voltage Regulator",
+                        "correctRight": "A circuit that maintains a stable output voltage despite variations in input voltage or load current, often using a Zener diode.",
+                        "explanation": "A voltage regulator uses components like Zener diodes to provide a constant output voltage."
+                      },
+                      {
+                        "left": "Forward Voltage",
+                        "correctRight": "The voltage at which a diode begins to conduct significantly in forward bias.",
+                        "explanation": "Forward voltage is the voltage necessary for the diode to conduct in the forward direction."
+                      },
+                      {
+                        "left": "Reverse Breakdown Voltage",
+                        "correctRight": "The voltage at which a diode experiences a sharp increase in reverse current.",
+                        "explanation": "Reverse breakdown voltage is the point at which the reverse voltage across the diode leads to a significant increase in reverse current, potentially damaging the device."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "5a5f032c-4ebf-4cfb-9974-c42749e144e7",
+                    "questionText": "Match the semiconductor device with its typical application:",
+                    "left": [
+                      "Rectifier Diode",
+                      "LED",
+                      "Photodiode",
+                      "Zener Diode",
+                      "Solar Cell"
+                    ],
+                    "right": [
+                      "Power supplies and electronic circuits.",
+                      "Voltage regulation in power supplies.",
+                      "Optical sensors and light detectors.",
+                      "Renewable energy generation.",
+                      "Indicator lights and displays."
+                    ],
+                    "matches": [
+                      {
+                        "left": "Rectifier Diode",
+                        "correctRight": "Power supplies and electronic circuits.",
+                        "explanation": "Rectifier diodes are used in power supplies to convert AC to DC, fundamental for most electronic circuits."
+                      },
+                      {
+                        "left": "LED",
+                        "correctRight": "Indicator lights and displays.",
+                        "explanation": "LEDs are widely used as indicator lights and in displays due to their efficiency and long lifespan."
+                      },
+                      {
+                        "left": "Photodiode",
+                        "correctRight": "Optical sensors and light detectors.",
+                        "explanation": "Photodiodes are used in optical sensors to detect light and convert it into electrical signals."
+                      },
+                      {
+                        "left": "Zener Diode",
+                        "correctRight": "Voltage regulation in power supplies.",
+                        "explanation": "Zener diodes are commonly used in voltage regulator circuits to maintain a stable voltage output."
+                      },
+                      {
+                        "left": "Solar Cell",
+                        "correctRight": "Renewable energy generation.",
+                        "explanation": "Solar cells convert sunlight into electricity, making them an important renewable energy source."
+                      }
+                    ]
+                  }
+                ],
+                "flashcard": [
+                  {
+                    "questionId": "c3dc2571-ace1-4a2b-9bbf-c4d4b60b4462",
+                    "term": "In a forward-biased semiconductor diode, what is the relationship between voltage and current?",
+                    "definitionOptions": [
+                      "Current is exponentially proportional to voltage.",
+                      "Current is linearly proportional to voltage.",
+                      "Current is inversely proportional to voltage.",
+                      "Current remains constant regardless of voltage."
+                    ],
+                    "correctDefinition": "Current is exponentially proportional to voltage.",
+                    "explanation": "In forward bias, as the voltage across the diode increases, the current increases exponentially after overcoming the built-in potential (approximately 0.7V for silicon diodes). This is due to the reduction in the depletion region width, allowing majority carriers to easily cross the junction."
+                  },
+                  {
+                    "questionId": "0ae1b4a3-98c7-4191-8cbb-d5b1a9e469f6",
+                    "term": "What is the primary function of a semiconductor diode when used as a rectifier?",
+                    "definitionOptions": [
+                      "To amplify an AC signal.",
+                      "To convert AC voltage to DC voltage.",
+                      "To regulate voltage.",
+                      "To store electrical energy."
+                    ],
+                    "correctDefinition": "To convert AC voltage to DC voltage.",
+                    "explanation": "A rectifier uses a diode's property of allowing current to flow in only one direction. This unidirectional current flow converts the alternating current (AC) into a pulsating direct current (DC). Smoothing circuits are then used to reduce the ripple and produce a smoother DC voltage."
+                  },
+                  {
+                    "questionId": "4dae6439-1d7d-4e03-8fb9-3f9bff39b169",
+                    "term": "Which of the following best describes the I-V characteristic of a Zener diode in the breakdown region?",
+                    "definitionOptions": [
+                      "Current remains nearly constant over a wide range of voltage.",
+                      "Voltage increases linearly with current.",
+                      "Current decreases linearly with voltage.",
+                      "Voltage remains nearly constant over a wide range of current."
+                    ],
+                    "correctDefinition": "Voltage remains nearly constant over a wide range of current.",
+                    "explanation": "In the Zener breakdown region, the voltage across the Zener diode remains nearly constant (equal to the Zener voltage, Vz) despite significant changes in the current flowing through it. This characteristic is crucial for voltage regulation applications."
+                  },
+                  {
+                    "questionId": "45f6c863-b07a-4b5e-97b6-1fafc0f27d5e",
+                    "term": "What is the fundamental principle behind the operation of a photodiode?",
+                    "definitionOptions": [
+                      "Emitting light when current flows through it.",
+                      "Generating voltage when heated.",
+                      "Conducting current only when a specific voltage is applied.",
+                      "Generating current when exposed to light."
+                    ],
+                    "correctDefinition": "Generating current when exposed to light.",
+                    "explanation": "A photodiode is a semiconductor diode that generates an electric current when photons of light are absorbed in the depletion region. This process is known as the photovoltaic effect or the photoconductive effect, depending on how the photodiode is biased."
+                  }
+                ]
+              }
+            },
+            {
+              "subtopic_id": 2,
+              "subtopic_name": "Logic gates (OR. AND. NOT. NAND and NOR).",
+              "questions": {
+                "mcq": [
+                  {
+                    "questionId": "362bacf5-5a35-46b9-9ba1-0a33ae68df6a",
+                    "questionText": "Which logic gate produces a HIGH (1) output only when both of its inputs are HIGH (1)?",
+                    "options": ["OR gate", "AND gate", "NOT gate", "NOR gate"],
+                    "correctAnswer": "AND gate",
+                    "explanation": "An AND gate outputs HIGH (1) only if ALL inputs are HIGH (1). Otherwise, the output is LOW (0)."
+                  },
+                  {
+                    "questionId": "5b3d6c2d-adcd-4785-bfa3-45ceb1679c43",
+                    "questionText": "A NOT gate is also known as an inverter because it:",
+                    "options": [
+                      "Amplifies the input signal.",
+                      "Reverses the input signal.",
+                      "Passes the input signal unchanged.",
+                      "Blocks the input signal."
+                    ],
+                    "correctAnswer": "Reverses the input signal.",
+                    "explanation": "A NOT gate inverts the input. If the input is HIGH (1), the output is LOW (0), and vice versa."
+                  },
+                  {
+                    "questionId": "5c475c79-0947-4245-a601-ba15a742f781",
+                    "questionText": "Which logic gate produces a LOW (0) output only when all its inputs are HIGH (1)?",
+                    "options": ["NAND gate", "NOR gate", "OR gate", "AND gate"],
+                    "correctAnswer": "NAND gate",
+                    "explanation": "A NAND gate is the inverse of an AND gate. It produces a LOW (0) output only when all inputs are HIGH (1). Otherwise, the output is HIGH (1)."
+                  },
+                  {
+                    "questionId": "8d7a469e-99e6-4b67-940d-c517ff4ec5f6",
+                    "questionText": "Which logic gate produces a HIGH (1) output when at least one of its inputs is HIGH (1)?",
+                    "options": ["AND gate", "NOR gate", "OR gate", "NAND gate"],
+                    "correctAnswer": "OR gate",
+                    "explanation": "An OR gate outputs HIGH (1) if ANY of its inputs are HIGH (1). It only outputs LOW (0) if ALL inputs are LOW (0)."
+                  }
+                ],
+                "fillInTheBlanks": [
+                  {
+                    "questionId": "369e423a-1afc-4510-bca5-c08c71adcff6",
+                    "question": "The output of an ___ gate is LOW only when all of its inputs are HIGH.",
+                    "options": ["OR", "AND", "NAND", "NOR"],
+                    "correctAnswer": "NAND",
+                    "explanation": "A NAND gate is the complement of an AND gate. Therefore, its output is LOW (0) only when both (or all) inputs are HIGH (1). Otherwise, the output is HIGH (1)."
+                  },
+                  {
+                    "questionId": "04e62287-4c65-461e-89ac-96f77d288179",
+                    "question": "A ___ gate inverts the input signal; if the input is HIGH, the output is LOW, and vice versa.",
+                    "options": ["AND", "OR", "NOT", "NOR"],
+                    "correctAnswer": "NOT",
+                    "explanation": "A NOT gate, also known as an inverter, performs logical negation on its input. It simply inverts the input signal. A HIGH input (1) becomes a LOW output (0), and a LOW input (0) becomes a HIGH output (1)."
+                  },
+                  {
+                    "questionId": "f45c6a0f-52f9-44f6-b498-72892d214034",
+                    "question": "The output of an OR gate is HIGH if ___ of its inputs are HIGH.",
+                    "options": ["none", "all", "at least one", "exactly two"],
+                    "correctAnswer": "at least one",
+                    "explanation": "An OR gate produces a HIGH (1) output if one or more of its inputs are HIGH (1). It only produces a LOW (0) output when all of its inputs are LOW (0)."
+                  },
+                  {
+                    "questionId": "395cef24-f32f-41fa-8e9a-9a085571e132",
+                    "question": "A ___ gate combines the function of an OR gate followed by a NOT gate.",
+                    "options": ["AND", "NAND", "NOR", "XOR"],
+                    "correctAnswer": "NOR",
+                    "explanation": "A NOR gate (NOT-OR) first performs the OR operation on its inputs, and then inverts the result using a NOT gate. Its output is HIGH (1) only when all its inputs are LOW (0). Otherwise, the output is LOW (0)."
+                  }
+                ],
+                "trueFalse": [
+                  {
+                    "questionId": "0bee2f7e-60f7-480e-bc71-320c524220e6",
+                    "question": "An OR gate outputs a HIGH signal only when all its inputs are HIGH.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "An OR gate outputs a HIGH signal if *at least one* of its inputs is HIGH. It only outputs a LOW signal when all its inputs are LOW."
+                  },
+                  {
+                    "questionId": "34583fae-f6b2-4d2e-8eef-5d77113540c3",
+                    "question": "A NAND gate is logically equivalent to an AND gate followed by a NOT gate.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "A NAND (NOT AND) gate performs the AND operation first, and then inverts the result.  Therefore, it's the same as an AND gate whose output is fed into a NOT gate."
+                  },
+                  {
+                    "questionId": "a0208e6e-1ace-43b9-b3ec-6a09714ec27c",
+                    "question": "A NOT gate is also called an inverter, and it always outputs the opposite of its input.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "True",
+                    "explanation": "A NOT gate, or inverter, has only one input. If the input is HIGH (1), the output is LOW (0), and vice versa. This inverts the input signal."
+                  },
+                  {
+                    "questionId": "a4bc5ea2-3568-4e30-ae84-44f72cb6ad9a",
+                    "question": "A NOR gate will output a HIGH signal if any of its inputs are HIGH.",
+                    "options": ["True", "False"],
+                    "correctAnswer": "False",
+                    "explanation": "A NOR gate (NOT OR) outputs a HIGH signal only when *all* of its inputs are LOW.  If any input is HIGH, the OR part of the gate would output HIGH, and the NOT part inverts it to LOW."
+                  }
+                ],
+                "matchthefollowing": [
+                  {
+                    "questionId": "b133ba25-aa43-4220-84b1-1371fa57c01a",
+                    "questionText": "Match the logic gate to its Boolean expression:",
+                    "left": ["OR Gate", "AND Gate", "NOT Gate", "NAND Gate"],
+                    "right": ["A . B", "!(A . B)", "A + B", "!A"],
+                    "matches": [
+                      {
+                        "left": "OR Gate",
+                        "correctRight": "A + B",
+                        "explanation": "The OR gate outputs TRUE if either A or B (or both) are TRUE, represented by the '+' symbol."
+                      },
+                      {
+                        "left": "AND Gate",
+                        "correctRight": "A . B",
+                        "explanation": "The AND gate outputs TRUE only if both A and B are TRUE, represented by the '.' symbol."
+                      },
+                      {
+                        "left": "NOT Gate",
+                        "correctRight": "!A",
+                        "explanation": "The NOT gate inverts the input; if A is TRUE, the output is FALSE, and vice versa, represented by '!A'."
+                      },
+                      {
+                        "left": "NAND Gate",
+                        "correctRight": "!(A . B)",
+                        "explanation": "The NAND gate is the negation of the AND gate. It outputs FALSE only if both A and B are TRUE."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "e1cec830-b095-4198-bda2-af71cadabf3b",
+                    "questionText": "Match the logic gate to its description:",
+                    "left": [
+                      "OR Gate",
+                      "AND Gate",
+                      "NOT Gate",
+                      "NOR Gate",
+                      "NAND Gate"
+                    ],
+                    "right": [
+                      "Output is TRUE only if ALL inputs are TRUE.",
+                      "Inverts the input signal.",
+                      "Output is FALSE only if ALL inputs are TRUE.",
+                      "Output is TRUE if ANY input is TRUE.",
+                      "Output is FALSE if ANY input is TRUE."
+                    ],
+                    "matches": [
+                      {
+                        "left": "OR Gate",
+                        "correctRight": "Output is TRUE if ANY input is TRUE.",
+                        "explanation": "The OR gate outputs a high signal (TRUE) if at least one of the inputs is high (TRUE)."
+                      },
+                      {
+                        "left": "AND Gate",
+                        "correctRight": "Output is TRUE only if ALL inputs are TRUE.",
+                        "explanation": "The AND gate only produces a high signal (TRUE) when all inputs are high (TRUE)."
+                      },
+                      {
+                        "left": "NOT Gate",
+                        "correctRight": "Inverts the input signal.",
+                        "explanation": "The NOT gate performs a logical negation, flipping the input signal."
+                      },
+                      {
+                        "left": "NOR Gate",
+                        "correctRight": "Output is FALSE if ANY input is TRUE.",
+                        "explanation": "The NOR gate is the negation of the OR gate; output is only TRUE when ALL inputs are FALSE"
+                      },
+                      {
+                        "left": "NAND Gate",
+                        "correctRight": "Output is FALSE only if ALL inputs are TRUE.",
+                        "explanation": "The NAND gate is the negation of the AND gate; output is only FALSE when ALL inputs are TRUE"
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "5ef38b37-a005-4c37-b712-ebc048f78acb",
+                    "questionText": "Match the gate to its Truth Table equivalent output (where A and B are inputs):",
+                    "left": ["OR Gate", "AND Gate", "NOT Gate (Input A)"],
+                    "right": [
+                      "A:0 B:0 Output:0, A:0 B:1 Output:1, A:1 B:0 Output:1, A:1 B:1 Output:1",
+                      "A:0 B:0 Output:0, A:0 B:1 Output:0, A:1 B:0 Output:0, A:1 B:1 Output:1",
+                      "A:0 Output:1, A:1 Output:0"
+                    ],
+                    "matches": [
+                      {
+                        "left": "OR Gate",
+                        "correctRight": "A:0 B:0 Output:0, A:0 B:1 Output:1, A:1 B:0 Output:1, A:1 B:1 Output:1",
+                        "explanation": "The OR gate outputs 1 if at least one input is 1."
+                      },
+                      {
+                        "left": "AND Gate",
+                        "correctRight": "A:0 B:0 Output:0, A:0 B:1 Output:0, A:1 B:0 Output:0, A:1 B:1 Output:1",
+                        "explanation": "The AND gate outputs 1 only when both inputs are 1."
+                      },
+                      {
+                        "left": "NOT Gate (Input A)",
+                        "correctRight": "A:0 Output:1, A:1 Output:0",
+                        "explanation": "The NOT gate inverts the input. 0 becomes 1, and 1 becomes 0."
+                      }
+                    ]
+                  },
+                  {
+                    "questionId": "b25b4812-32ea-493f-ace9-cdfa7d30b978",
+                    "questionText": "Match the Logic Gate with its common application:",
+                    "left": ["AND Gate", "OR Gate", "NOT Gate", "NAND Gate"],
+                    "right": [
+                      "Alarm systems (triggered by multiple conditions)",
+                      "Microprocessor memory cells",
+                      "Enabling a device based on multiple inputs",
+                      "Simple inverters (signal manipulation)"
+                    ],
+                    "matches": [
+                      {
+                        "left": "AND Gate",
+                        "correctRight": "Enabling a device based on multiple inputs",
+                        "explanation": "AND gates are used when an output should be enabled or ON when all inputs are active"
+                      },
+                      {
+                        "left": "OR Gate",
+                        "correctRight": "Alarm systems (triggered by multiple conditions)",
+                        "explanation": "OR gates are used when an output should be triggered if any one or more conditions exist"
+                      },
+                      {
+                        "left": "NOT Gate",
+                        "correctRight": "Simple inverters (signal manipulation)",
+                        "explanation": "NOT gates are used in applications such as inverters, oscillators and signal shaping."
+                      },
+                      {
+                        "left": "NAND Gate",
+                        "correctRight": "Microprocessor memory cells",
+                        "explanation": "NAND gates are versatile building blocks in digital circuits, including memory cells due to their ease of use and low power consumption."
+                      }
+                    ]
+                  }
+                ],
+                "flashcard": [
+                  {
+                    "questionId": "df164409-ae8e-4d3a-8e4a-3ef07dd129ed",
+                    "term": "What logic gate outputs HIGH only when all inputs are HIGH?",
+                    "definitionOptions": [
+                      "OR Gate",
+                      "AND Gate",
+                      "NOT Gate",
+                      "NOR Gate"
+                    ],
+                    "correctDefinition": "AND Gate",
+                    "explanation": "An AND gate produces a HIGH (1) output only when all of its inputs are HIGH (1). If any input is LOW (0), the output is LOW (0)."
+                  },
+                  {
+                    "questionId": "fd40e02b-bd7f-4461-b941-b0c41501a272",
+                    "term": "Which logic gate inverts the input signal?",
+                    "definitionOptions": [
+                      "OR Gate",
+                      "AND Gate",
+                      "NOT Gate",
+                      "NAND Gate"
+                    ],
+                    "correctDefinition": "NOT Gate",
+                    "explanation": "A NOT gate, also known as an inverter, has only one input. It outputs the opposite of the input signal. A HIGH (1) input results in a LOW (0) output, and vice versa."
+                  },
+                  {
+                    "questionId": "30d53e3c-929f-46e1-b651-064f7bc5304e",
+                    "term": "Which logic gate is equivalent to an AND gate followed by a NOT gate?",
+                    "definitionOptions": [
+                      "OR Gate",
+                      "NAND Gate",
+                      "NOR Gate",
+                      "XOR Gate"
+                    ],
+                    "correctDefinition": "NAND Gate",
+                    "explanation": "A NAND gate (NOT AND) produces a LOW (0) output only when all inputs are HIGH (1). Otherwise, the output is HIGH (1). It's the inverse of the AND gate."
+                  },
+                  {
+                    "questionId": "91a9ddc2-e264-4b6d-a46b-1cfeaacc776d",
+                    "term": "What logic gate outputs LOW only when at least one input is HIGH?",
+                    "definitionOptions": [
+                      "OR Gate",
+                      "AND Gate",
+                      "NOT Gate",
+                      "NOR Gate"
+                    ],
+                    "correctDefinition": "NOR Gate",
+                    "explanation": "A NOR gate (NOT OR) is the opposite of an OR gate. It outputs HIGH (1) only when all inputs are LOW (0). If any input is HIGH (1), the output is LOW (0)."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

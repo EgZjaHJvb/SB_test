@@ -1,0 +1,5 @@
+node_modules
+.env
+test-index.html
+venv
+# PCB Podcast/

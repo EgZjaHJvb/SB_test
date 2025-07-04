@@ -1,0 +1,6 @@
+transformers
+torch
+torchvision
+pillow
+pdfplumber
+python-docx
